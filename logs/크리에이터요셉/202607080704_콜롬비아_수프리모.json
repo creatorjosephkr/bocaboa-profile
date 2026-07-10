@@ -1,0 +1,7181 @@
+{
+  "id": "0e61e54d-53e7-4b82-9289-b59c926b7a28",
+  "date": "2026-07-08T07:04:56.052Z",
+  "beanName": "콜롬비아 수프리모",
+  "beanWeight": "160",
+  "preheatTemp": "220",
+  "targetDTR": "15",
+  "events": [
+    {
+      "id": "d379728b-b559-4d8a-bd57-ea28b0102639",
+      "elapsedSeconds": -339,
+      "temperature": 24.9,
+      "heatValue": 12,
+      "type": "예열 시작",
+      "description": "예열 시작 관련 내용 기록"
+    },
+    {
+      "id": "7ceb3fb9-b616-4399-b26e-b726bd52a8bb",
+      "elapsedSeconds": 0,
+      "temperature": 205.7,
+      "heatValue": 12,
+      "type": "투입",
+      "description": "생두 투입 완료"
+    },
+    {
+      "id": "1a6f5d5a-71bb-4b80-b615-93923a329319",
+      "elapsedSeconds": 573,
+      "temperature": 196.7,
+      "heatValue": 12,
+      "type": "1차 팝",
+      "description": "1차 크랙 진행 감지"
+    },
+    {
+      "id": "c576b2da-2356-4ddf-b3ac-73c11e7f194d",
+      "elapsedSeconds": 580,
+      "temperature": 198.2,
+      "heatValue": 11,
+      "type": "열량 조절",
+      "description": "열량 변경: 11단계"
+    },
+    {
+      "id": "b6da52a3-25d8-4361-bb5d-68b03e8e8bdc",
+      "elapsedSeconds": 678,
+      "temperature": 208.2,
+      "heatValue": 11,
+      "type": "종료",
+      "description": "배출 및 로스팅 종료"
+    }
+  ],
+  "graphPoints": [
+    {
+      "id": "ed8459a9-9009-44fe-839e-b49e010b8606",
+      "relativeTime": -338,
+      "temperature": 24.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "517a6cf9-82b1-4bb9-b93c-a3bac9202749",
+      "relativeTime": -337,
+      "temperature": 26.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "6e590f8e-a905-410f-a84d-f9ba896fc4f0",
+      "relativeTime": -336,
+      "temperature": 27.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ca089b6f-c16a-456a-a5b3-c3a99b8f1578",
+      "relativeTime": -335,
+      "temperature": 28.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3f44e84a-6bb5-4a88-a4f2-b76f42c4055d",
+      "relativeTime": -334,
+      "temperature": 29.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f5b76cbb-70b1-4105-864f-354de615940e",
+      "relativeTime": -333,
+      "temperature": 30.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e8f3c693-1489-46fd-ab23-c10d009613af",
+      "relativeTime": -332,
+      "temperature": 32.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ae791ae7-7600-4c38-95b3-682754d6fec7",
+      "relativeTime": -331,
+      "temperature": 33.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "7a115254-b8b3-4bde-a04b-26f95d1e3217",
+      "relativeTime": -330,
+      "temperature": 34.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "57f8bc82-3981-46c4-8b75-e6944b27cca0",
+      "relativeTime": -329,
+      "temperature": 35.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ad99058c-a37c-4495-8a26-d9c56d70961b",
+      "relativeTime": -328,
+      "temperature": 37.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "078bd20f-ea16-43a5-aedf-7553761bace4",
+      "relativeTime": -327,
+      "temperature": 38.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "17397069-8e76-441b-85ff-5e3eab5008dd",
+      "relativeTime": -326,
+      "temperature": 39.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a3bae972-e14a-4770-a504-05e9cf98cb4a",
+      "relativeTime": -325,
+      "temperature": 40.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "511f7d15-966d-441b-92ee-abd9a426d057",
+      "relativeTime": -324,
+      "temperature": 41.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "41ee1067-c4c3-4a11-8678-1bd4000b7fda",
+      "relativeTime": -323,
+      "temperature": 43.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "674d922f-a9b4-4a7e-8e6f-490bb634fd03",
+      "relativeTime": -322,
+      "temperature": 44.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d81d7d92-8db4-484b-be36-76a771fca1fc",
+      "relativeTime": -321,
+      "temperature": 45.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ba49e83c-b364-423f-954e-45fd24c46f83",
+      "relativeTime": -320,
+      "temperature": 46.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "041fb71d-7465-40ae-ad90-29c7142b99fb",
+      "relativeTime": -319,
+      "temperature": 47.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a083c786-b1a2-49d2-9cd7-87d3cb531dd6",
+      "relativeTime": -318,
+      "temperature": 49.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "9ec602d5-707f-4d14-aae2-8a9d45a3f884",
+      "relativeTime": -317,
+      "temperature": 50.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b8c380aa-975b-4588-8160-8d4d584e6438",
+      "relativeTime": -316,
+      "temperature": 51.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "cbaf9f56-5488-4bf2-8662-ec9db7894295",
+      "relativeTime": -315,
+      "temperature": 52.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3bc64fac-5134-4bc8-a7a9-5d6b0dab71a2",
+      "relativeTime": -314,
+      "temperature": 53.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3de41ae7-9357-46f8-b1e1-4f7addf78327",
+      "relativeTime": -313,
+      "temperature": 55.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f6c362a5-cbe6-4941-bd7c-563a3edfb437",
+      "relativeTime": -312,
+      "temperature": 56.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "842fe45f-d274-46b5-9352-f34d3cdc704b",
+      "relativeTime": -311,
+      "temperature": 57.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f5399604-a5b9-45f1-93cd-2b9dc6135797",
+      "relativeTime": -310,
+      "temperature": 58.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "9f901c9a-32fd-4417-b1b7-0680f6f7240b",
+      "relativeTime": -309,
+      "temperature": 59.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "87821771-9c6d-46d8-ac27-71af79ae5fab",
+      "relativeTime": -308,
+      "temperature": 60.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "6273b018-d94e-4309-90c2-03b4ba395e14",
+      "relativeTime": -307,
+      "temperature": 61.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "5fbc80e8-9ca9-4bea-9b3c-72e7a47c278a",
+      "relativeTime": -306,
+      "temperature": 62.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ee81dd7a-030d-44f3-b2f8-59aa89cc497d",
+      "relativeTime": -305,
+      "temperature": 63.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "7dc389f9-ab4f-4c9a-9034-f22ac3349676",
+      "relativeTime": -304,
+      "temperature": 64.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e1dda1b5-2790-4031-b32e-af2d17bc9b38",
+      "relativeTime": -303,
+      "temperature": 65.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d19176d4-1c5c-4ff7-b309-ada0ec03adb7",
+      "relativeTime": -302,
+      "temperature": 66.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "712488e4-7510-4c13-a408-34deecdb4408",
+      "relativeTime": -301,
+      "temperature": 67.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "2c57b237-feb0-4aed-97b0-568da3abcf38",
+      "relativeTime": -300,
+      "temperature": 68.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "78b0c8ce-fcfb-4737-bfa4-e9e9d8bde007",
+      "relativeTime": -299,
+      "temperature": 69.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b137560b-6207-4554-a773-a2f16037446a",
+      "relativeTime": -298,
+      "temperature": 70.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "4b186b4e-5cfd-4f25-abe7-eae845bbc3d1",
+      "relativeTime": -297,
+      "temperature": 71.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "dbd6d3e2-e754-4f42-b0ee-d998deaaca66",
+      "relativeTime": -296,
+      "temperature": 72.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "115f4472-6bec-4509-9631-f9ccbeca93dd",
+      "relativeTime": -295,
+      "temperature": 73.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "c7dc26b4-a8d9-49bc-b6d9-7dceaadde7dc",
+      "relativeTime": -294,
+      "temperature": 74.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "43cfd075-c716-4a61-8235-303fb5fd04b5",
+      "relativeTime": -293,
+      "temperature": 75.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b76a9340-7ea5-4bf1-93e9-a2b04d063628",
+      "relativeTime": -292,
+      "temperature": 76.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "0d335274-4487-41d9-b0cf-ba077ca31f21",
+      "relativeTime": -291,
+      "temperature": 77.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3f924fa9-00a6-4137-a2a1-037c7f3dde42",
+      "relativeTime": -290,
+      "temperature": 78.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "adb7ebd4-8364-4897-bfd9-aab706d61fd5",
+      "relativeTime": -289,
+      "temperature": 79.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "067436d3-926c-470a-9d33-9a641f8a30f0",
+      "relativeTime": -288,
+      "temperature": 80.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "c01791b3-6e99-4524-8acf-90c814cbb61a",
+      "relativeTime": -287,
+      "temperature": 81.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "6bb16be2-ff79-46e2-b506-39e4ddf21705",
+      "relativeTime": -286,
+      "temperature": 82.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b78e2eb2-7353-476a-babb-f47d198781f1",
+      "relativeTime": -285,
+      "temperature": 83.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "cd366401-4f97-4311-aec2-2f33dbedcf84",
+      "relativeTime": -284,
+      "temperature": 84.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d287b91c-3abe-4138-b0f6-f5c43f8a3b90",
+      "relativeTime": -283,
+      "temperature": 84.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3f6065c5-bd00-483b-ade7-87f38f2db4f8",
+      "relativeTime": -282,
+      "temperature": 85.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "21bb8228-4b92-4d3b-a27a-3ccb6d3cbf2e",
+      "relativeTime": -281,
+      "temperature": 87.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f827a7a1-0ceb-4840-8d82-4c4b27ba48e6",
+      "relativeTime": -280,
+      "temperature": 88.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "4c754187-ba86-42e0-8013-a302eeec9696",
+      "relativeTime": -279,
+      "temperature": 89.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b121b800-b730-4968-bed4-003e5c41f8cd",
+      "relativeTime": -278,
+      "temperature": 89.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "5a05f50e-e89e-4d9d-a03d-e2a7ad11050f",
+      "relativeTime": -277,
+      "temperature": 90.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "c067f1e9-3028-4c0c-b19f-d407131d262f",
+      "relativeTime": -276,
+      "temperature": 91.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "0eb9a724-dd88-4fee-8783-69d6edf6d039",
+      "relativeTime": -275,
+      "temperature": 92.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a2f1ae99-bf42-4399-b3af-1ced1d73ce8b",
+      "relativeTime": -274,
+      "temperature": 93.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "971bf8f5-ed63-4b4b-8ed6-8cc56c8d3200",
+      "relativeTime": -273,
+      "temperature": 93.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "cd230e61-3e16-44ec-8793-286651955e82",
+      "relativeTime": -272,
+      "temperature": 94.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "448bd132-5d25-4919-bf6c-25f068e986be",
+      "relativeTime": -271,
+      "temperature": 95.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "fbb2574f-dfd6-4f02-9664-fde19500939e",
+      "relativeTime": -270,
+      "temperature": 96.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b9ef5842-b30c-40c4-9cb3-59dd16e93c60",
+      "relativeTime": -269,
+      "temperature": 97.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "05353baf-cd1c-4f40-8747-583bb928c493",
+      "relativeTime": -268,
+      "temperature": 98.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a0e9bc26-7b5a-4adb-9c82-28ee6c37e436",
+      "relativeTime": -267,
+      "temperature": 99.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "621ff190-9c17-4f18-b1f4-b6c9b642f4f7",
+      "relativeTime": -266,
+      "temperature": 99.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e345efa8-3305-454e-b81d-d07f64504d07",
+      "relativeTime": -265,
+      "temperature": 101.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "05deb885-c917-4e5a-b13d-0efd88dcbb59",
+      "relativeTime": -264,
+      "temperature": 101.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "303c33d9-8201-4356-aeff-375459c6a15e",
+      "relativeTime": -263,
+      "temperature": 101.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "79db80d8-9c09-4c7e-88a0-62c4191b0f3e",
+      "relativeTime": -262,
+      "temperature": 103.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "4231184d-e5e7-496b-894c-a9cfda018790",
+      "relativeTime": -261,
+      "temperature": 104.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8ba786df-d5a5-4c70-8cdb-6d5a9dc36bdb",
+      "relativeTime": -260,
+      "temperature": 104.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "1ce59f8a-ef47-4599-a3b0-67518989fcca",
+      "relativeTime": -259,
+      "temperature": 105.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a35eaafd-fb95-4aa0-ae3e-8449f8f0427e",
+      "relativeTime": -258,
+      "temperature": 105.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "2c2216ce-5cd4-4df0-a3cb-7fb6f6eeab90",
+      "relativeTime": -257,
+      "temperature": 107.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8693ffba-67e3-4fd8-b5e3-29864f6e61ff",
+      "relativeTime": -256,
+      "temperature": 107.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d0e65ca1-91ce-4341-9d68-c61d21519434",
+      "relativeTime": -255,
+      "temperature": 108.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "9c65eaad-3d68-4ecb-a752-c53ce61993eb",
+      "relativeTime": -254,
+      "temperature": 109.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "5eed533f-ee2f-473d-8ee7-0b2ecd46c7de",
+      "relativeTime": -253,
+      "temperature": 109.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8c0eb6cc-b524-4b92-a1b3-be77b6b8a731",
+      "relativeTime": -252,
+      "temperature": 110.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "13736c01-77db-4286-aac5-8fe12fd663b9",
+      "relativeTime": -251,
+      "temperature": 111.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "58071c0c-735b-4749-93b1-78d2e714faad",
+      "relativeTime": -250,
+      "temperature": 112.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "0adafc42-b2d5-4ec3-aa89-4b9ac2bd212a",
+      "relativeTime": -249,
+      "temperature": 112.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "9aa68508-0023-48c3-9a38-2b5854e41f33",
+      "relativeTime": -248,
+      "temperature": 113.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a5c1117a-893c-43cc-8712-b5c8dd42c1d6",
+      "relativeTime": -247,
+      "temperature": 114.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "4aa4d6f3-25cc-4ed7-baf4-8001ce498b45",
+      "relativeTime": -246,
+      "temperature": 114.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "87c67f9b-ea28-46dc-9963-fb29dd5b75a1",
+      "relativeTime": -245,
+      "temperature": 115.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "1a198721-0356-4e48-bc91-e3659c55e75e",
+      "relativeTime": -244,
+      "temperature": 116.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8238a9f5-6b79-47e7-b8ee-938c61412656",
+      "relativeTime": -243,
+      "temperature": 117.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d5fa3fe4-9737-4a05-92e0-4a81f898f3ce",
+      "relativeTime": -242,
+      "temperature": 117.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "89dfba77-c56a-42b1-ac3a-240af0242b36",
+      "relativeTime": -241,
+      "temperature": 118.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "fb4a7adf-0917-47c5-b87a-5b9435ffa7f1",
+      "relativeTime": -240,
+      "temperature": 119.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "663d72bc-85fa-4af8-880c-f564a611d6c1",
+      "relativeTime": -239,
+      "temperature": 120.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "96a15b3c-c6b6-4c70-b379-dcb93368087a",
+      "relativeTime": -238,
+      "temperature": 120.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "93402725-4514-469e-9bb6-44fe2b71a091",
+      "relativeTime": -237,
+      "temperature": 121.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "55be8da1-9615-4091-80df-772edca851f8",
+      "relativeTime": -236,
+      "temperature": 122.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "384982c1-97ff-4959-8f59-dac81167e526",
+      "relativeTime": -235,
+      "temperature": 122.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f64e0f08-5d0c-4bb7-8cb7-6a78975516b7",
+      "relativeTime": -234,
+      "temperature": 123.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "77f7132e-4bd3-404e-b1dd-eb183188eb2d",
+      "relativeTime": -233,
+      "temperature": 124.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "9570431d-7870-4d94-9ecf-f0aadc063fe6",
+      "relativeTime": -232,
+      "temperature": 124.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "aeb2e04e-4046-4677-8fb4-44415c091f38",
+      "relativeTime": -231,
+      "temperature": 125.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "506c83cd-307f-4ce3-9444-301959f7e234",
+      "relativeTime": -230,
+      "temperature": 125.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "05be6348-766b-4897-b3b1-bb55018cfc7e",
+      "relativeTime": -229,
+      "temperature": 126.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "7342eea6-9cab-4f63-b109-628d36af9528",
+      "relativeTime": -228,
+      "temperature": 127.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "2cdd14f2-532e-4773-880d-eb7c3cca74ed",
+      "relativeTime": -227,
+      "temperature": 127.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "50f30346-2a7c-4338-b1a9-19d309ead79c",
+      "relativeTime": -226,
+      "temperature": 128.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e76eac94-db80-4068-a08a-0322e451cbb6",
+      "relativeTime": -225,
+      "temperature": 129.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b559dce3-60cc-44ad-8165-341721941fe5",
+      "relativeTime": -224,
+      "temperature": 130.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e8e6111d-5861-460c-8cca-193117535f85",
+      "relativeTime": -223,
+      "temperature": 130.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f0526092-0db9-40c2-a002-5d72d23055ce",
+      "relativeTime": -222,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d31d9d40-9246-4268-aadf-1bf8186391c5",
+      "relativeTime": -221,
+      "temperature": 131.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "71014921-1299-4e6d-a77c-e314e808835f",
+      "relativeTime": -220,
+      "temperature": 132.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "834be25d-dd08-4f7f-8d58-3958a35a6cb5",
+      "relativeTime": -219,
+      "temperature": 132.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a8e9bb8d-1c2f-4d35-8b33-c839a3865f84",
+      "relativeTime": -218,
+      "temperature": 134.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e17f2a40-0d15-4dda-83db-edec5c661f0e",
+      "relativeTime": -217,
+      "temperature": 134.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "2b83e3d6-d39f-43f9-b8e2-83ab8b87212f",
+      "relativeTime": -216,
+      "temperature": 135.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "9ba36825-e0c8-4aa1-9124-016cd864d42b",
+      "relativeTime": -215,
+      "temperature": 135.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "36bdfd08-cd33-4ef0-9f0b-3b65f119ef4b",
+      "relativeTime": -214,
+      "temperature": 136.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "00fde6f3-3eeb-40e8-a1cf-f94cb1bb1b46",
+      "relativeTime": -213,
+      "temperature": 137.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "7bb141b8-aa5f-43fd-8852-52d93dcc6d41",
+      "relativeTime": -212,
+      "temperature": 137.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "6b48a6ac-f12c-46c8-a26c-2b48289d7289",
+      "relativeTime": -211,
+      "temperature": 138.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b285d129-9f23-4857-8cd5-af1b8ccc724f",
+      "relativeTime": -210,
+      "temperature": 138.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "37ff3454-4df4-4b5d-b04f-e92e2d4c828e",
+      "relativeTime": -209,
+      "temperature": 139.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "4fe0710d-7af1-476d-bb57-81081913517e",
+      "relativeTime": -208,
+      "temperature": 140.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "9c7c387b-8618-4d52-a1cc-178627370487",
+      "relativeTime": -207,
+      "temperature": 140.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "555053cd-6677-4195-b37f-270a0b89150a",
+      "relativeTime": -206,
+      "temperature": 140.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "540ad6f8-5008-4ff8-9534-178272803d7c",
+      "relativeTime": -205,
+      "temperature": 141.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "dac09ebc-17ae-4b4e-9971-540b62176e0e",
+      "relativeTime": -204,
+      "temperature": 141.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "5acebf37-b46b-40a7-866e-5aa6895e5e83",
+      "relativeTime": -203,
+      "temperature": 142.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "267902f0-b62b-4ac3-80cf-974a9933e52a",
+      "relativeTime": -202,
+      "temperature": 142.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "57e3f153-b7fb-4602-a695-20aa9f008e7b",
+      "relativeTime": -201,
+      "temperature": 143.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "66a48032-cbd5-421f-ad2a-09b3278b33c1",
+      "relativeTime": -200,
+      "temperature": 144.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e99f36b9-9036-4358-b1b4-71ec9e4d3aec",
+      "relativeTime": -199,
+      "temperature": 144.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "53771cce-766a-453f-8868-6a9f5ac9d7a7",
+      "relativeTime": -198,
+      "temperature": 145.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "20349a66-92ef-4bfe-8346-fee1adfe7b21",
+      "relativeTime": -197,
+      "temperature": 145.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "4f8057ab-9e82-4dcf-a8fe-76d2e668dc99",
+      "relativeTime": -196,
+      "temperature": 146.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "06ec3094-ef6a-4031-b6ce-4c1dc039bf6d",
+      "relativeTime": -195,
+      "temperature": 146.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3dbe452f-e4e1-44f0-9445-d363502d986f",
+      "relativeTime": -194,
+      "temperature": 147.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "610041d6-47a5-4131-9c98-edcae2ab96f4",
+      "relativeTime": -193,
+      "temperature": 148.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "bb0835c0-81ec-4693-9252-1ac92eae3ddf",
+      "relativeTime": -192,
+      "temperature": 148.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "da216d94-0cc0-47d0-add8-f50d51d53d05",
+      "relativeTime": -191,
+      "temperature": 148.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "838ba5f2-57c8-4948-9500-a0b4425d2b21",
+      "relativeTime": -190,
+      "temperature": 149.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "58116406-39e5-4b11-b0e8-64ab6527e33c",
+      "relativeTime": -189,
+      "temperature": 150.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "2ce165dd-3417-4c3b-b586-6acc07b3a666",
+      "relativeTime": -188,
+      "temperature": 150.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a12b5fec-d6cd-48b6-be70-99cc4083d773",
+      "relativeTime": -187,
+      "temperature": 151.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "4d327763-8af4-40f1-ad3a-55a06d1e63f9",
+      "relativeTime": -186,
+      "temperature": 151.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "96405cab-9e36-4967-bff6-1b8e7c9ec43d",
+      "relativeTime": -185,
+      "temperature": 152.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "74b2b164-c3db-492c-8a62-7f86c541b332",
+      "relativeTime": -184,
+      "temperature": 153.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "fbf64bce-a5dc-4928-ba99-5a9dd84e2faa",
+      "relativeTime": -183,
+      "temperature": 153.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "88c512ff-ef14-44ae-b1c4-8240ec13004e",
+      "relativeTime": -182,
+      "temperature": 154.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "617ace92-1ef6-4972-869c-44d2b05987e1",
+      "relativeTime": -181,
+      "temperature": 154.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "fc72a895-1ba0-4a11-87d5-e11d164dddc7",
+      "relativeTime": -180,
+      "temperature": 154.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "04746bb6-e770-46cc-bf7e-09de1022a562",
+      "relativeTime": -179,
+      "temperature": 155.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d18c7bf1-7d6c-4cc8-acc2-76ea7ec1038b",
+      "relativeTime": -178,
+      "temperature": 156.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "31e76d30-2903-41dd-998f-368b066d5de7",
+      "relativeTime": -177,
+      "temperature": 156.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "55fcca44-82f8-4ba2-99c8-eeb514285b02",
+      "relativeTime": -176,
+      "temperature": 156.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "351c00b9-97d0-4853-b389-817e83e86e06",
+      "relativeTime": -175,
+      "temperature": 157.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "819a1ba8-14d1-4499-b9bf-4063f2ecb79f",
+      "relativeTime": -174,
+      "temperature": 158.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "710264a2-fe8f-4be3-84e4-b7d55c566ea3",
+      "relativeTime": -173,
+      "temperature": 158.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "942a44aa-7182-4324-bfb3-dfc1e5b35013",
+      "relativeTime": -172,
+      "temperature": 159.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e868ac0a-4b58-45dc-8e7c-1ffc5c60b30a",
+      "relativeTime": -171,
+      "temperature": 159.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "725b495f-9078-409c-8ca0-c0a42d7c7dac",
+      "relativeTime": -170,
+      "temperature": 159.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "5a5a9b67-7561-4a95-93ae-a4f828e542cb",
+      "relativeTime": -169,
+      "temperature": 160.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "80a3ffc1-3f5e-45d3-9601-59df0b7c0f43",
+      "relativeTime": -168,
+      "temperature": 161.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "fdface68-772e-49d6-a6e7-264597aea04f",
+      "relativeTime": -167,
+      "temperature": 161.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b1bc666b-f106-43b6-99ac-f88c8fdf2d24",
+      "relativeTime": -166,
+      "temperature": 162.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3fd2d87a-db41-4096-bdd2-8536065b312d",
+      "relativeTime": -165,
+      "temperature": 162.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "441f770a-c239-4c14-b598-c36a4fec791f",
+      "relativeTime": -164,
+      "temperature": 163.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "0abe20d4-5e25-4daa-a274-8f0b2e948ed9",
+      "relativeTime": -163,
+      "temperature": 163.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "fbddd605-baa4-4c09-bd26-0e9df2dc87b4",
+      "relativeTime": -162,
+      "temperature": 164.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "be85e71d-1393-42b2-ae85-e05dd4c4e20e",
+      "relativeTime": -161,
+      "temperature": 164.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "05210b89-8181-49b2-a80f-79067b91854f",
+      "relativeTime": -160,
+      "temperature": 165.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e0f37fc7-5eb4-4b42-af86-3c63dc26e3e7",
+      "relativeTime": -159,
+      "temperature": 165.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d3b7c351-ac14-4300-b66e-d5d4387d3575",
+      "relativeTime": -158,
+      "temperature": 166.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3e537fdd-2c12-443b-a990-1d6da0e4497c",
+      "relativeTime": -157,
+      "temperature": 166.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a630e978-d632-4573-ae79-5a99030530a0",
+      "relativeTime": -156,
+      "temperature": 167.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "eca3f2a3-ef6c-428c-a0fa-b255c6092bdc",
+      "relativeTime": -155,
+      "temperature": 167.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f85017be-5b80-416c-b25a-a3fc6a38d8ea",
+      "relativeTime": -154,
+      "temperature": 168.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "07471af9-242d-4610-bb4b-d03ca6976e68",
+      "relativeTime": -153,
+      "temperature": 168.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "9e85a696-8726-4c67-80f8-1aef78ac0c73",
+      "relativeTime": -152,
+      "temperature": 169.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f645c66c-f10c-486f-bba0-552763c758b4",
+      "relativeTime": -151,
+      "temperature": 169.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "6cefc4a3-8555-42b6-8ded-5dff9d44ab86",
+      "relativeTime": -150,
+      "temperature": 170.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "df18fd1d-361c-4979-904b-e84821d014f3",
+      "relativeTime": -149,
+      "temperature": 170.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "bf69883f-528d-49ea-bf42-0aff1c1c6c26",
+      "relativeTime": -148,
+      "temperature": 171.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "79b52e62-9eca-4f1d-ba3f-c605289c1113",
+      "relativeTime": -147,
+      "temperature": 171.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "53d6659e-2521-4e40-b06d-6bd7829ae482",
+      "relativeTime": -146,
+      "temperature": 171.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "50154579-b5a1-426b-928f-0a0ae9c6fe08",
+      "relativeTime": -145,
+      "temperature": 171.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "47906bf1-585e-4f73-86e8-b081b9f0b806",
+      "relativeTime": -144,
+      "temperature": 172.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e623bd62-3d28-49cc-81b2-b37b1812994e",
+      "relativeTime": -143,
+      "temperature": 173.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "fe8334f1-cfba-4c46-8077-97d5dddddcea",
+      "relativeTime": -142,
+      "temperature": 173.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "34b684f8-02a7-482c-8f8c-5f0ef44409ff",
+      "relativeTime": -141,
+      "temperature": 174.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "43ecc463-fc66-41d5-bf0f-f951e014417b",
+      "relativeTime": -140,
+      "temperature": 174.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e45df313-b34c-4f67-83e6-12ba960ab34e",
+      "relativeTime": -139,
+      "temperature": 175.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "23c61118-5fb8-41df-90fb-5f8e4eb679b1",
+      "relativeTime": -138,
+      "temperature": 175.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3a239595-d4d0-4231-9682-e8ae85abe65b",
+      "relativeTime": -137,
+      "temperature": 176.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "c085ee46-a80b-4032-b62a-331ecdaa24bd",
+      "relativeTime": -136,
+      "temperature": 176.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "71f0c0d5-a38a-43eb-8fec-3151245ab481",
+      "relativeTime": -135,
+      "temperature": 176.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "7674ddd6-4cb8-42aa-9776-128a83e0bdeb",
+      "relativeTime": -134,
+      "temperature": 177.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3b7119c2-0227-444d-b758-7d80fb0f8be6",
+      "relativeTime": -133,
+      "temperature": 178.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ecfa85bd-9537-4e52-a917-4b87d377efd4",
+      "relativeTime": -132,
+      "temperature": 178.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f2e8e94f-dd1a-4299-9e92-1ba4123cfd65",
+      "relativeTime": -131,
+      "temperature": 179.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "9b244ac7-2beb-4323-a11a-5e7767f98fcc",
+      "relativeTime": -130,
+      "temperature": 179.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b5414ef2-92b0-4bc1-8801-755fcec7ac8e",
+      "relativeTime": -129,
+      "temperature": 179.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "7e581734-ba64-49ee-9a68-d2fda985e9af",
+      "relativeTime": -128,
+      "temperature": 180.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ad88f6c5-ce65-4608-bce9-5d9a16052801",
+      "relativeTime": -127,
+      "temperature": 180.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "07d1fd86-b588-4fdb-a7ef-e6b161d1ef6e",
+      "relativeTime": -126,
+      "temperature": 181.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "be1e24cb-43ef-4e88-8f8b-e19f0f3c9100",
+      "relativeTime": -125,
+      "temperature": 181.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3e713218-1bf1-449d-aa96-404a809c94d7",
+      "relativeTime": -124,
+      "temperature": 182.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a718415b-8e87-478c-83ac-048ad40b1baf",
+      "relativeTime": -123,
+      "temperature": 182.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b8064da0-d8a0-4d96-98ce-ef16b47533ad",
+      "relativeTime": -122,
+      "temperature": 182.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "55469d67-dc5f-4f07-a1c0-4e6f3d9a7489",
+      "relativeTime": -121,
+      "temperature": 183.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "53430959-727e-410a-9c51-392ff71a9784",
+      "relativeTime": -120,
+      "temperature": 184.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "99391afb-3425-4db0-986c-b4d808bfbdaf",
+      "relativeTime": -119,
+      "temperature": 184.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "73b47950-e9c9-4215-bb2e-45ba2b99a617",
+      "relativeTime": -118,
+      "temperature": 185.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d3ba3834-e11d-4fb1-9fe4-9c2c7f3bd62e",
+      "relativeTime": -117,
+      "temperature": 185.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "dea9afaa-84c6-4aca-a00d-0375f3065ca0",
+      "relativeTime": -116,
+      "temperature": 186.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "99dd2841-3362-4753-a04d-0bf12fb49c30",
+      "relativeTime": -115,
+      "temperature": 186.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "37dde4cd-d344-448f-b19c-05fb015ca286",
+      "relativeTime": -114,
+      "temperature": 186.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "6d381aca-bc69-4f48-9d9c-f477c5e6ae24",
+      "relativeTime": -113,
+      "temperature": 187.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "1f022506-776d-4dc3-84c8-1afc360a35e7",
+      "relativeTime": -112,
+      "temperature": 187.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "0421a87a-8352-4a29-a220-a3e5a0351d05",
+      "relativeTime": -111,
+      "temperature": 188.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a6356e33-2a44-4ae1-90ef-845b00578fb8",
+      "relativeTime": -110,
+      "temperature": 188.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d9fb12b4-4bf6-4a75-88aa-d668b540ede7",
+      "relativeTime": -109,
+      "temperature": 188.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "6bcc3f0b-b1b5-4b2b-a3d8-ae97443bf2a7",
+      "relativeTime": -108,
+      "temperature": 189.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "22fb262a-a4b5-46d1-8382-3836b1dba493",
+      "relativeTime": -107,
+      "temperature": 190.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "48269639-31c9-4e38-880e-13bdb32c7422",
+      "relativeTime": -106,
+      "temperature": 190.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "97db0df5-4ed5-4140-8d58-f8a74cc371b4",
+      "relativeTime": -105,
+      "temperature": 190.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "c873c415-635f-49c7-82bd-c20a37a53f24",
+      "relativeTime": -104,
+      "temperature": 191.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "19846cdd-a3e5-4103-b62f-a34b27b19827",
+      "relativeTime": -103,
+      "temperature": 191.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "73ddff83-d8b9-4fa3-b9fa-d01f3faa709c",
+      "relativeTime": -102,
+      "temperature": 192.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "49ff83b2-6e94-4641-9e9d-a1092300f825",
+      "relativeTime": -101,
+      "temperature": 192.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "decaacb6-942b-4a10-a055-54994540b6fd",
+      "relativeTime": -100,
+      "temperature": 192.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ae8bdaf3-2eb3-437d-9859-4322c3aa77a6",
+      "relativeTime": -99,
+      "temperature": 193.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "2e65aaf2-42c4-4150-893b-57789b5daa19",
+      "relativeTime": -98,
+      "temperature": 193.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "64585e13-8041-458e-a447-4610018fe399",
+      "relativeTime": -97,
+      "temperature": 193.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "eedc57e3-0bdc-4e11-8cbf-d43fd55822f9",
+      "relativeTime": -96,
+      "temperature": 194.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "86252216-6599-4ec4-9f26-066882bc936b",
+      "relativeTime": -95,
+      "temperature": 194.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "824947c6-b09e-4f22-9f6e-07f1a36a8622",
+      "relativeTime": -94,
+      "temperature": 195.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "adc05497-5f39-4715-a11d-a737f59c0d3d",
+      "relativeTime": -93,
+      "temperature": 195.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "4fb668c0-cbc6-4877-8bc8-f9f74fa025cd",
+      "relativeTime": -92,
+      "temperature": 196.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b6c83b95-82d7-4913-a272-f1e23227a9ef",
+      "relativeTime": -91,
+      "temperature": 196.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "1d7ccdc0-1f8f-40cd-aeba-4a01bcf97993",
+      "relativeTime": -90,
+      "temperature": 197.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "81c59d80-d0e5-4f9e-8157-ef1b9e7c3d20",
+      "relativeTime": -89,
+      "temperature": 197.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b8434c49-79d3-4188-9c41-1745a0221ed1",
+      "relativeTime": -88,
+      "temperature": 198.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "2b2adde0-fe91-4502-bbd3-b42a931f93a9",
+      "relativeTime": -87,
+      "temperature": 198.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "00c5f547-13b2-42c6-89d6-bcbf88f5ce64",
+      "relativeTime": -86,
+      "temperature": 198.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "de21f19c-d8b9-4a58-ba2d-249a3d8e7d04",
+      "relativeTime": -85,
+      "temperature": 198.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "382bdd58-c74f-4572-95b5-500f12578b80",
+      "relativeTime": -84,
+      "temperature": 199.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "c4cff9ee-fc56-4b3e-acec-4ab38afbd940",
+      "relativeTime": -83,
+      "temperature": 200.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "40e20c68-6ef0-4e6a-943e-84fe6d1e3435",
+      "relativeTime": -82,
+      "temperature": 200.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "13d8610a-9298-433b-bfed-cec6798ffe53",
+      "relativeTime": -81,
+      "temperature": 200.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "1dd2f2bf-7471-4378-ae49-3fe88d48ccd7",
+      "relativeTime": -80,
+      "temperature": 201.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "66660824-9f5b-41e0-83af-8ecf7a10f817",
+      "relativeTime": -79,
+      "temperature": 201.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "77924de9-04b1-45dc-a6b4-eed54deff4f5",
+      "relativeTime": -78,
+      "temperature": 202.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "5b785a6a-d75a-477a-ba91-1572399da371",
+      "relativeTime": -77,
+      "temperature": 202.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "012f5952-353f-4bce-bdd7-66797196c338",
+      "relativeTime": -76,
+      "temperature": 202.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "375a1555-decf-4883-afba-c248498a2eef",
+      "relativeTime": -75,
+      "temperature": 203.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ebcf0e31-d5df-4711-96c5-557afad3c6b4",
+      "relativeTime": -74,
+      "temperature": 203.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "c3c95c5e-cce5-4d1e-909a-87a8f8ed2a0b",
+      "relativeTime": -73,
+      "temperature": 203.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "448c5b30-85c9-455d-a8cc-2676d54c030f",
+      "relativeTime": -72,
+      "temperature": 204.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "168db675-8a1d-4457-a6e7-0960e0e25b4a",
+      "relativeTime": -71,
+      "temperature": 204.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "9721a8b4-d4d1-4638-a565-5c3a11b3edce",
+      "relativeTime": -70,
+      "temperature": 205.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "036b7aaa-d252-4ccd-9888-ab4858c60f38",
+      "relativeTime": -69,
+      "temperature": 205.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "cdd3263a-6eab-4c2b-872e-1ab35ced9010",
+      "relativeTime": -68,
+      "temperature": 206.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8def8f1f-ac35-41b3-b8a7-d1a80f6e06ba",
+      "relativeTime": -67,
+      "temperature": 206.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "5739a81a-6d95-4a51-b844-5e8292ae5158",
+      "relativeTime": -66,
+      "temperature": 206.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "0141f711-9a1e-483d-a35a-c5857d3f472e",
+      "relativeTime": -65,
+      "temperature": 207.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8211fb7f-504c-4929-8de9-bb12afce18d3",
+      "relativeTime": -64,
+      "temperature": 207.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e7377ed5-60bd-453b-9e76-f770e55f4e08",
+      "relativeTime": -63,
+      "temperature": 208.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a1d33774-94f5-4c90-824f-e9d3f89477d9",
+      "relativeTime": -62,
+      "temperature": 208.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e920c860-98df-4561-a884-fbef69cb9beb",
+      "relativeTime": -61,
+      "temperature": 208.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ff2b480c-c8aa-43c3-8b0d-691885776778",
+      "relativeTime": -60,
+      "temperature": 208.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "56ea5413-c84c-414e-9d4c-0312394de5bc",
+      "relativeTime": -59,
+      "temperature": 208.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "6f9f0157-a5f0-4a1c-b55d-cce9ae20d43c",
+      "relativeTime": -58,
+      "temperature": 209.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "2b904818-0d04-4df5-b2d6-c04ded3095dd",
+      "relativeTime": -57,
+      "temperature": 210.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d4e3e3cb-6be9-4240-9b99-6b58efb9bb6b",
+      "relativeTime": -56,
+      "temperature": 210.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "fb86b0f4-cff1-4c28-98a3-c1d1f4dc7c51",
+      "relativeTime": -55,
+      "temperature": 210.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "0b0ba32a-e470-4d2f-ac4c-07d0b69bb31e",
+      "relativeTime": -54,
+      "temperature": 210.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "989f3650-7c97-4ed6-8af4-2e008cb1a272",
+      "relativeTime": -53,
+      "temperature": 211.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "fe616779-9810-45ad-995f-985eb79a2235",
+      "relativeTime": -52,
+      "temperature": 211.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f5b128b5-b59b-4d6e-919d-6ae641528805",
+      "relativeTime": -51,
+      "temperature": 212.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f18c252f-cf33-4deb-bafd-5e7eafea30f3",
+      "relativeTime": -50,
+      "temperature": 212.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8e9abb93-f3af-4d21-ac0a-b567e49470e5",
+      "relativeTime": -49,
+      "temperature": 212.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "bc0f6dea-098b-4b0b-920b-c19cd0e0d4b5",
+      "relativeTime": -48,
+      "temperature": 212.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "034d1cb8-433d-4212-8375-218d47f0a8d4",
+      "relativeTime": -47,
+      "temperature": 213.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ee3c8047-27b4-420d-b864-a18abb6dc746",
+      "relativeTime": -46,
+      "temperature": 213.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a76f6d12-5ce4-4751-8032-0b745234680b",
+      "relativeTime": -45,
+      "temperature": 214.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "524fbf5d-682e-474b-8d06-1d4468f259a3",
+      "relativeTime": -44,
+      "temperature": 214.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3b82359a-6426-468a-85e3-86d25481132d",
+      "relativeTime": -43,
+      "temperature": 214.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "2667c8da-da24-4caf-ab53-f471111d4c2c",
+      "relativeTime": -42,
+      "temperature": 215.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "50f83c52-578f-4c98-927d-ea31dac338a7",
+      "relativeTime": -41,
+      "temperature": 215.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "020c2bdc-1350-4583-aa23-700b98d80ee9",
+      "relativeTime": -40,
+      "temperature": 215.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "fb9176de-7595-4f08-ad53-bf1a70305c79",
+      "relativeTime": -39,
+      "temperature": 215.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "c3c60153-1e28-465e-8fa8-a7bbf0178a48",
+      "relativeTime": -38,
+      "temperature": 216.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "9b39f858-d908-41d6-b05b-aa066c7a3736",
+      "relativeTime": -37,
+      "temperature": 217.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e59cbf03-b5dc-42c3-8bfa-72b1dd719d7b",
+      "relativeTime": -36,
+      "temperature": 217.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "e5c07891-5e5c-47c8-a1c1-6704ec45493d",
+      "relativeTime": -35,
+      "temperature": 217.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "1f5eb23c-c5d7-43b4-ae59-830ebe54c42f",
+      "relativeTime": -34,
+      "temperature": 218.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "c599765d-2f5b-4912-9e62-f6123f150874",
+      "relativeTime": -33,
+      "temperature": 218.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "57f882da-1a3b-4531-acf9-020ee76bb2d6",
+      "relativeTime": -32,
+      "temperature": 218.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "18f43869-6905-43a5-a853-9e1993b94ec8",
+      "relativeTime": -31,
+      "temperature": 218.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "0145edbc-1116-4284-84e5-0f984ed6dda5",
+      "relativeTime": -30,
+      "temperature": 219.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "48909d59-004f-4837-912c-b4cdad60aeb7",
+      "relativeTime": -29,
+      "temperature": 219.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "90ceaa2a-5b1a-41ce-8b90-23f6f2dd85a4",
+      "relativeTime": -28,
+      "temperature": 219.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "7865de43-5a64-4bb0-9818-626874eea3d3",
+      "relativeTime": -27,
+      "temperature": 219.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ac9b623b-5269-4651-8c2d-31af1c64029f",
+      "relativeTime": -26,
+      "temperature": 220.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "be03a73f-e0ab-41e5-8f90-24c08308ae69",
+      "relativeTime": -25,
+      "temperature": 220.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "be7e54df-e6cb-4c4b-810c-43b1e140d9de",
+      "relativeTime": -24,
+      "temperature": 220.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8227250f-642d-4d34-adc8-b9bd9a7656ff",
+      "relativeTime": -23,
+      "temperature": 220.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "885b9703-e3a7-4999-882f-5b72a1c15171",
+      "relativeTime": -22,
+      "temperature": 220.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3618ed43-2339-4692-8b8b-1ceabd22e124",
+      "relativeTime": -21,
+      "temperature": 220.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3af94f50-6aa0-43e5-8ee2-63e285509217",
+      "relativeTime": -20,
+      "temperature": 220.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "52eeb079-f59e-440b-8787-37c3b1c42c73",
+      "relativeTime": -19,
+      "temperature": 221.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "5bf49b37-9dd4-4280-8a47-90bb0503a27d",
+      "relativeTime": -18,
+      "temperature": 221.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "52a398f3-4228-4cb4-ae2f-e0ba03b9a866",
+      "relativeTime": -17,
+      "temperature": 221.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "80e379cd-46e2-49dc-a00f-b7243d6fb60e",
+      "relativeTime": -16,
+      "temperature": 221.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "65396fc5-dc02-431d-9f12-04afdc666f5c",
+      "relativeTime": -15,
+      "temperature": 221.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "582e7c31-232b-4422-b8df-e7722e076923",
+      "relativeTime": -14,
+      "temperature": 220.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "70f1bda7-4a01-4fad-9de2-6447dc75fbc2",
+      "relativeTime": -13,
+      "temperature": 219.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b557bbd3-2213-492c-91fc-09bd748d2832",
+      "relativeTime": -12,
+      "temperature": 217.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "eec13e4f-8bbb-42f0-a69e-513020f35e61",
+      "relativeTime": -11,
+      "temperature": 216.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a842047f-c1b3-4381-b823-8728ef0d67eb",
+      "relativeTime": -10,
+      "temperature": 215.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "053d5ec7-b79d-41b0-a805-c916ee455f2a",
+      "relativeTime": -9,
+      "temperature": 214.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ae292115-4772-4500-9dae-82c27a911c26",
+      "relativeTime": -8,
+      "temperature": 213.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "bff58b9d-264a-4dda-a73a-6ed59b6b510f",
+      "relativeTime": -7,
+      "temperature": 212.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b64f980b-80a9-4789-b8a1-c2407a33ed4b",
+      "relativeTime": -6,
+      "temperature": 211.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "1cb0bc52-5e8f-4a2e-a243-53eb7031bd5a",
+      "relativeTime": -5,
+      "temperature": 211.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "571f00ec-0a1d-493e-b97e-a1f68be5dcde",
+      "relativeTime": -4,
+      "temperature": 210.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ebe25deb-c441-4625-b900-ab23ee8f4c5a",
+      "relativeTime": -3,
+      "temperature": 209.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "12a94b9b-e126-4767-bee2-1951a7f40978",
+      "relativeTime": -2,
+      "temperature": 208.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "4fbd3409-9197-4e3b-97f7-fa4cd464f57f",
+      "relativeTime": -1,
+      "temperature": 207.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "884e84fa-0167-4482-b9f0-07222c82272c",
+      "relativeTime": 0,
+      "temperature": 205.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "bb569e47-e1f5-460c-b437-bb48282b6918",
+      "relativeTime": 1,
+      "temperature": 203.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a39ef030-fba6-4e42-84fd-4b6ca5b6d189",
+      "relativeTime": 2,
+      "temperature": 201.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "29da2f1a-c2b4-4d2c-93f4-d7bda8a31776",
+      "relativeTime": 3,
+      "temperature": 199.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "98e78644-ff6c-469d-b5f5-d6291f025dc2",
+      "relativeTime": 4,
+      "temperature": 197.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8fd59ab2-5f70-44e5-af51-d6a597a1a2ad",
+      "relativeTime": 5,
+      "temperature": 196.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8ed24c97-a3b5-4b83-8394-397e81006348",
+      "relativeTime": 6,
+      "temperature": 194.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "6ddff478-e101-402c-8ffa-24502a8d4b78",
+      "relativeTime": 7,
+      "temperature": 193.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "7855d5c9-60e1-431e-b1b4-40289818ef88",
+      "relativeTime": 8,
+      "temperature": 191.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "255b8d52-6df7-43b3-85fe-7d6dfc89b1c1",
+      "relativeTime": 9,
+      "temperature": 189.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8ea0a1fb-40e4-4b61-894c-eaeaef351404",
+      "relativeTime": 10,
+      "temperature": 187.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d74489aa-3e4f-461f-bd8c-8b14a3b3fc36",
+      "relativeTime": 11,
+      "temperature": 186.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "51514f2f-88f3-46cd-aa74-c52d9b95c547",
+      "relativeTime": 12,
+      "temperature": 184.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "614b83e5-66ea-402c-af3d-c0c1bc546a28",
+      "relativeTime": 13,
+      "temperature": 183.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "2f0a1de3-674a-4e85-90a8-11afe69cf483",
+      "relativeTime": 14,
+      "temperature": 181.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "2d00f51b-dcf6-41e8-baba-9bc321ad9aa3",
+      "relativeTime": 15,
+      "temperature": 180.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "4b6b3c19-c41f-41f4-91a5-83a4cbba3a07",
+      "relativeTime": 16,
+      "temperature": 178.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "1efb5df9-0867-4f42-a24d-83122c2a9d0e",
+      "relativeTime": 17,
+      "temperature": 177.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8a01e08e-0ecc-46e6-915a-071ba3878fb1",
+      "relativeTime": 18,
+      "temperature": 176.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "635b9a24-9322-478f-a756-393d10530f73",
+      "relativeTime": 19,
+      "temperature": 174.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ae46dcca-c899-4506-9546-d7d28bca35ab",
+      "relativeTime": 20,
+      "temperature": 174.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "867d83f5-bc68-464d-a945-216dc8ed99f8",
+      "relativeTime": 21,
+      "temperature": 172.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "c3c27339-fa2d-4bb6-90b6-bef1ee1a0192",
+      "relativeTime": 22,
+      "temperature": 171.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "792fbe11-a4ca-4f3b-8e45-13f3de56e2be",
+      "relativeTime": 23,
+      "temperature": 170.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8e6d6d68-2ad9-4c8b-9564-bb4ed9dccb1d",
+      "relativeTime": 24,
+      "temperature": 169.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b4c62806-c3a6-41d5-8319-7df5862b78fd",
+      "relativeTime": 25,
+      "temperature": 168.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "71fa9ff4-e46c-407f-85e9-04b859020e61",
+      "relativeTime": 26,
+      "temperature": 166.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "cec3f5f1-436d-4b76-bcd6-d1cc82b8b6f6",
+      "relativeTime": 27,
+      "temperature": 166.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "06c6bd8b-de9f-420b-86e5-5a737d91b8f0",
+      "relativeTime": 28,
+      "temperature": 165.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ddbe6b3a-cd96-4e1d-bbd4-728250bb601f",
+      "relativeTime": 29,
+      "temperature": 164.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "6bd3fde0-9c45-4a6d-9ff4-aabeae105bf3",
+      "relativeTime": 30,
+      "temperature": 163.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "86b3ef58-3865-4cab-a00b-e5beb77b5151",
+      "relativeTime": 31,
+      "temperature": 162.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a1046c1b-e02e-450e-887b-eed5fd45adac",
+      "relativeTime": 32,
+      "temperature": 161.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "fe95919e-b113-4dce-a6b3-04b0831ab982",
+      "relativeTime": 33,
+      "temperature": 160.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "a5fd6ed7-f316-4d2d-a1e1-62bc191a6908",
+      "relativeTime": 34,
+      "temperature": 159.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b105b981-d970-4b8d-86bc-90bdb3890397",
+      "relativeTime": 35,
+      "temperature": 158.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "162a1c5c-f955-40dc-9f56-96830bf3a0ff",
+      "relativeTime": 36,
+      "temperature": 157.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d6999a85-a556-486a-8642-1df8d405b017",
+      "relativeTime": 37,
+      "temperature": 156.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b1f8e22c-e51a-4fbd-b629-1e715040bc15",
+      "relativeTime": 38,
+      "temperature": 155.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "693b9512-967b-455a-b6e2-0838a18ffff6",
+      "relativeTime": 39,
+      "temperature": 155.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "915e4de9-8ccf-4549-8d1e-f821f0678cec",
+      "relativeTime": 40,
+      "temperature": 153.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8747721b-f115-4174-9785-128b93e5ea7b",
+      "relativeTime": 41,
+      "temperature": 153.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "ddd0cbdd-d285-4e90-97dd-8382a622e273",
+      "relativeTime": 42,
+      "temperature": 152.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "bcd2e120-0874-48a9-a01f-2b6bcabb5988",
+      "relativeTime": 43,
+      "temperature": 152.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d3fd3de8-1e7b-4009-9bc0-40ad9e248d34",
+      "relativeTime": 44,
+      "temperature": 151.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "72f30b35-aacf-4bd7-ae8f-5eadea48bd26",
+      "relativeTime": 45,
+      "temperature": 150.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "b2b57fb3-d44d-47fa-84de-9bff4ee406a1",
+      "relativeTime": 46,
+      "temperature": 150.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "51e13974-1be5-4f52-8073-5f494c56ac7f",
+      "relativeTime": 47,
+      "temperature": 149.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "f8e95da3-e337-47e9-96cf-dfa2ce9fe1c8",
+      "relativeTime": 48,
+      "temperature": 148.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8f71221f-68db-44f5-92d1-640c71dd7c2f",
+      "relativeTime": 49,
+      "temperature": 148.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "14d7f54d-8199-403a-bafe-99585559726b",
+      "relativeTime": 50,
+      "temperature": 147.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "264b4998-782d-4cf8-8ffd-d6b83a2f085f",
+      "relativeTime": 51,
+      "temperature": 147.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "8b3860c2-aee1-4e14-9165-e17b6deacc6f",
+      "relativeTime": 52,
+      "temperature": 146.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "aff0fb78-0e79-418b-bb07-3f71cab27f1d",
+      "relativeTime": 53,
+      "temperature": 145.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "38bd754d-c6cf-4b6b-9a7c-616b57cecb03",
+      "relativeTime": 54,
+      "temperature": 145.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "5f827942-143c-40bc-8426-346ec2dc564d",
+      "relativeTime": 55,
+      "temperature": 144.9,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "3d125b98-3cda-45fa-a434-ce411bf0fae9",
+      "relativeTime": 56,
+      "temperature": 144.4,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "201f2d68-eb3b-4dde-8348-95b877758710",
+      "relativeTime": 57,
+      "temperature": 144.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "d7f19a3e-e20a-4777-bfa7-27804ae9423f",
+      "relativeTime": 58,
+      "temperature": 143.7,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "66542f2f-4449-4e69-b196-e5b736e0c62e",
+      "relativeTime": 59,
+      "temperature": 143.2,
+      "heat": 12,
+      "ror": null
+    },
+    {
+      "id": "cc3c6781-5bb6-4a0c-b4a2-8df3ccfd9874",
+      "relativeTime": 60,
+      "temperature": 142.7,
+      "heat": 12,
+      "ror": -1.69
+    },
+    {
+      "id": "5536ade7-8966-4b83-b550-506f4e134b74",
+      "relativeTime": 61,
+      "temperature": 142.2,
+      "heat": 12,
+      "ror": -3.24
+    },
+    {
+      "id": "ceb2668b-d4b5-45a5-9799-1b1129ff2b6d",
+      "relativeTime": 62,
+      "temperature": 141.9,
+      "heat": 12,
+      "ror": -4.63
+    },
+    {
+      "id": "c8b7dbb2-69de-478f-802e-9e9323c594f0",
+      "relativeTime": 63,
+      "temperature": 141.9,
+      "heat": 12,
+      "ror": -5.9
+    },
+    {
+      "id": "66e8c892-76a5-425f-9e62-e4b51a097cbc",
+      "relativeTime": 64,
+      "temperature": 141.4,
+      "heat": 12,
+      "ror": -6.97
+    },
+    {
+      "id": "68482c42-b1ad-4e89-93a2-73d6f7ba0cc6",
+      "relativeTime": 65,
+      "temperature": 140.7,
+      "heat": 12,
+      "ror": -8.07
+    },
+    {
+      "id": "5d4807ee-9269-4e39-a760-ee4543271307",
+      "relativeTime": 66,
+      "temperature": 140.2,
+      "heat": 12,
+      "ror": -9.11
+    },
+    {
+      "id": "3ceb45b7-8a6f-4dd9-b5a4-17f063ebe328",
+      "relativeTime": 67,
+      "temperature": 139.9,
+      "heat": 12,
+      "ror": -10.02
+    },
+    {
+      "id": "054b6e0b-1acf-447a-a4d3-6f40aee34991",
+      "relativeTime": 68,
+      "temperature": 139.2,
+      "heat": 12,
+      "ror": -10.96
+    },
+    {
+      "id": "d8a83635-100a-4810-84ec-12163e03144c",
+      "relativeTime": 69,
+      "temperature": 139.2,
+      "heat": 12,
+      "ror": -11.63
+    },
+    {
+      "id": "a895c7ce-4b5f-4c6e-814f-0a056cfcb2aa",
+      "relativeTime": 70,
+      "temperature": 138.7,
+      "heat": 12,
+      "ror": -12.36
+    },
+    {
+      "id": "7db03df6-26a7-4d87-9653-334caafd3c16",
+      "relativeTime": 71,
+      "temperature": 138.4,
+      "heat": 12,
+      "ror": -12.96
+    },
+    {
+      "id": "9034b640-c334-49bb-87e5-d10fae664270",
+      "relativeTime": 72,
+      "temperature": 137.7,
+      "heat": 12,
+      "ror": -13.57
+    },
+    {
+      "id": "6e71cdf5-e190-4fce-800f-b4814cca6638",
+      "relativeTime": 73,
+      "temperature": 137.2,
+      "heat": 12,
+      "ror": -14.2
+    },
+    {
+      "id": "4362e73d-47f7-4164-82f2-c149331993e8",
+      "relativeTime": 74,
+      "temperature": 136.9,
+      "heat": 12,
+      "ror": -14.76
+    },
+    {
+      "id": "ad087fb4-8868-4add-abe5-0786010f1631",
+      "relativeTime": 75,
+      "temperature": 137.4,
+      "heat": 12,
+      "ror": -15.11
+    },
+    {
+      "id": "436ae767-602c-49dd-b225-ec64a5ce38ff",
+      "relativeTime": 76,
+      "temperature": 136.4,
+      "heat": 12,
+      "ror": -15.54
+    },
+    {
+      "id": "bf002b38-27f3-4716-a81a-b6e9a9a13405",
+      "relativeTime": 77,
+      "temperature": 136.7,
+      "heat": 12,
+      "ror": -15.79
+    },
+    {
+      "id": "eb02abdf-b1ee-415d-a4b7-bd1864104030",
+      "relativeTime": 78,
+      "temperature": 136.4,
+      "heat": 12,
+      "ror": -16.03
+    },
+    {
+      "id": "6a1588d3-e183-48ec-bbc7-95bb13c1c588",
+      "relativeTime": 79,
+      "temperature": 135.9,
+      "heat": 12,
+      "ror": -16.35
+    },
+    {
+      "id": "744669b4-fcd8-461b-8309-e6d9907bb428",
+      "relativeTime": 80,
+      "temperature": 135.7,
+      "heat": 12,
+      "ror": -16.6
+    },
+    {
+      "id": "ca99f262-645d-4985-bbc0-6a9c0fbb57e7",
+      "relativeTime": 81,
+      "temperature": 135.4,
+      "heat": 12,
+      "ror": -16.76
+    },
+    {
+      "id": "a71dfa2c-fa7f-44cc-a066-f8488cf43cf2",
+      "relativeTime": 82,
+      "temperature": 135.4,
+      "heat": 12,
+      "ror": -16.82
+    },
+    {
+      "id": "ec5b4186-48b0-406a-9325-f3b5c39893bd",
+      "relativeTime": 83,
+      "temperature": 134.7,
+      "heat": 12,
+      "ror": -16.95
+    },
+    {
+      "id": "3c68b932-eff0-458a-a14a-b3f1432533e6",
+      "relativeTime": 84,
+      "temperature": 134.9,
+      "heat": 12,
+      "ror": -16.91
+    },
+    {
+      "id": "4cbf03d3-4bdc-412c-a892-b99314db6010",
+      "relativeTime": 85,
+      "temperature": 134.9,
+      "heat": 12,
+      "ror": -16.87
+    },
+    {
+      "id": "3e677b4b-2758-41ee-ab78-d4524d2dba4b",
+      "relativeTime": 86,
+      "temperature": 134.4,
+      "heat": 12,
+      "ror": -16.83
+    },
+    {
+      "id": "61dcf314-745e-4b92-b40d-df84b30f91b5",
+      "relativeTime": 87,
+      "temperature": 133.4,
+      "heat": 12,
+      "ror": -16.93
+    },
+    {
+      "id": "7537846b-edb8-4c6a-813e-c99003084d99",
+      "relativeTime": 88,
+      "temperature": 134.2,
+      "heat": 12,
+      "ror": -16.74
+    },
+    {
+      "id": "16d83152-9a0b-4460-9d07-330b196c39c6",
+      "relativeTime": 89,
+      "temperature": 133.9,
+      "heat": 12,
+      "ror": -16.52
+    },
+    {
+      "id": "a55dc99d-bf16-45be-a5fc-7063055650c6",
+      "relativeTime": 90,
+      "temperature": 133.7,
+      "heat": 12,
+      "ror": -16.29
+    },
+    {
+      "id": "da1512eb-2419-4a93-80c5-0cdbe198348d",
+      "relativeTime": 91,
+      "temperature": 133.7,
+      "heat": 12,
+      "ror": -16.17
+    },
+    {
+      "id": "17bdd8db-7575-41d4-9b3e-b256dd14a294",
+      "relativeTime": 92,
+      "temperature": 133.4,
+      "heat": 12,
+      "ror": -15.92
+    },
+    {
+      "id": "95821677-f2c9-400b-8954-4e3956471af0",
+      "relativeTime": 93,
+      "temperature": 133.2,
+      "heat": 12,
+      "ror": -15.78
+    },
+    {
+      "id": "0cd0fb71-241d-462c-9b0b-14c7a3802cab",
+      "relativeTime": 94,
+      "temperature": 132.9,
+      "heat": 12,
+      "ror": -15.65
+    },
+    {
+      "id": "051295a4-a57f-4f41-bea3-3c54316d59a8",
+      "relativeTime": 95,
+      "temperature": 132.9,
+      "heat": 12,
+      "ror": -15.43
+    },
+    {
+      "id": "c9000c71-01ce-44e7-a538-e7eebed267ba",
+      "relativeTime": 96,
+      "temperature": 132.7,
+      "heat": 12,
+      "ror": -15.22
+    },
+    {
+      "id": "91c6d3d2-4fc9-4333-91e7-6b960b76fc3d",
+      "relativeTime": 97,
+      "temperature": 132.4,
+      "heat": 12,
+      "ror": -15.02
+    },
+    {
+      "id": "fc65637a-3758-453e-8771-202481a75361",
+      "relativeTime": 98,
+      "temperature": 132.7,
+      "heat": 12,
+      "ror": -14.78
+    },
+    {
+      "id": "b812834f-9285-45a2-99d3-3f28c206ef89",
+      "relativeTime": 99,
+      "temperature": 131.9,
+      "heat": 12,
+      "ror": -14.57
+    },
+    {
+      "id": "c74f5215-58ac-4537-884c-904ceeaa4947",
+      "relativeTime": 100,
+      "temperature": 132.4,
+      "heat": 12,
+      "ror": -14.31
+    },
+    {
+      "id": "5caad833-03ec-45ac-b819-feecf185e0dd",
+      "relativeTime": 101,
+      "temperature": 131.9,
+      "heat": 12,
+      "ror": -14.16
+    },
+    {
+      "id": "5372dfd0-abc8-4f96-bcb1-dfa779c7daa0",
+      "relativeTime": 102,
+      "temperature": 132.2,
+      "heat": 12,
+      "ror": -13.86
+    },
+    {
+      "id": "6c39da2d-12ba-476d-b3a5-bf9a5020af58",
+      "relativeTime": 103,
+      "temperature": 131.7,
+      "heat": 12,
+      "ror": -13.49
+    },
+    {
+      "id": "7e9f1ed3-3db9-46b0-b2b2-e1d05a88ecd2",
+      "relativeTime": 104,
+      "temperature": 131.4,
+      "heat": 12,
+      "ror": -13.34
+    },
+    {
+      "id": "69f6e836-ff17-4330-966c-59ed058f4dda",
+      "relativeTime": 105,
+      "temperature": 131.4,
+      "heat": 12,
+      "ror": -13.14
+    },
+    {
+      "id": "e2dddce0-e4a0-4401-92e4-2e6f15570ece",
+      "relativeTime": 106,
+      "temperature": 131.4,
+      "heat": 12,
+      "ror": -12.91
+    },
+    {
+      "id": "35eba437-e529-4642-a405-3dbae553f6f6",
+      "relativeTime": 107,
+      "temperature": 131.2,
+      "heat": 12,
+      "ror": -12.73
+    },
+    {
+      "id": "975b59b8-781a-4575-90d5-dcc5fe894ad7",
+      "relativeTime": 108,
+      "temperature": 131.2,
+      "heat": 12,
+      "ror": -12.51
+    },
+    {
+      "id": "92d1cc23-ed80-48b8-b6f7-21438234a851",
+      "relativeTime": 109,
+      "temperature": 131.4,
+      "heat": 12,
+      "ror": -12.22
+    },
+    {
+      "id": "d863e924-96f0-4283-95b8-b8f5692409c6",
+      "relativeTime": 110,
+      "temperature": 131.2,
+      "heat": 12,
+      "ror": -11.93
+    },
+    {
+      "id": "652b1b26-dc4a-45c1-bc78-e7e247ed6e1b",
+      "relativeTime": 111,
+      "temperature": 130.7,
+      "heat": 12,
+      "ror": -11.75
+    },
+    {
+      "id": "75fdee99-609f-4026-8a40-7f52aadd640d",
+      "relativeTime": 112,
+      "temperature": 131.2,
+      "heat": 12,
+      "ror": -11.44
+    },
+    {
+      "id": "5ee611f5-0ead-447d-9054-7effca8cb14e",
+      "relativeTime": 113,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -11.15
+    },
+    {
+      "id": "9476e289-9c7e-4ee2-a611-c5a500754dc8",
+      "relativeTime": 114,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -10.93
+    },
+    {
+      "id": "4b87c506-0611-4146-b1c3-16cc14926378",
+      "relativeTime": 115,
+      "temperature": 131.2,
+      "heat": 12,
+      "ror": -10.51
+    },
+    {
+      "id": "789c2990-617b-485b-91a2-00fc3573abc7",
+      "relativeTime": 116,
+      "temperature": 131.2,
+      "heat": 12,
+      "ror": -10.21
+    },
+    {
+      "id": "f6f4cd3b-a717-4d95-b520-cbc8ce0857c4",
+      "relativeTime": 117,
+      "temperature": 130.7,
+      "heat": 12,
+      "ror": -9.92
+    },
+    {
+      "id": "b60f7499-0ee0-45ef-84da-ad56f13068bf",
+      "relativeTime": 118,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -9.67
+    },
+    {
+      "id": "2f1852d8-0dbd-4a95-9bc4-cd58b851c77d",
+      "relativeTime": 119,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -9.34
+    },
+    {
+      "id": "867decfc-df69-498b-82a9-01fc79e5e71f",
+      "relativeTime": 120,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -8.97
+    },
+    {
+      "id": "55946173-358f-47fb-abfb-8ff7f73022a8",
+      "relativeTime": 121,
+      "temperature": 130.7,
+      "heat": 12,
+      "ror": -8.65
+    },
+    {
+      "id": "b831310b-c362-4dc6-9893-bec0b4a5a58b",
+      "relativeTime": 122,
+      "temperature": 130.7,
+      "heat": 12,
+      "ror": -8.35
+    },
+    {
+      "id": "2fedde31-62df-48a8-bb90-12856bcf2445",
+      "relativeTime": 123,
+      "temperature": 130.4,
+      "heat": 12,
+      "ror": -8.08
+    },
+    {
+      "id": "7f58ef07-6a77-4dae-85b7-6e9504bec099",
+      "relativeTime": 124,
+      "temperature": 130.7,
+      "heat": 12,
+      "ror": -7.77
+    },
+    {
+      "id": "2e7d2fbf-f4ef-4b6a-8e9a-84c58cbf89c1",
+      "relativeTime": 125,
+      "temperature": 130.7,
+      "heat": 12,
+      "ror": -7.51
+    },
+    {
+      "id": "b4f2fd9a-a2e8-403a-85dd-da2fbacce970",
+      "relativeTime": 126,
+      "temperature": 130.7,
+      "heat": 12,
+      "ror": -7.23
+    },
+    {
+      "id": "d451ef20-8a7a-4de9-85e0-c48105a33c1d",
+      "relativeTime": 127,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -6.83
+    },
+    {
+      "id": "98763772-1a4b-4f54-bf79-a5fb777fe565",
+      "relativeTime": 128,
+      "temperature": 131.2,
+      "heat": 12,
+      "ror": -6.49
+    },
+    {
+      "id": "b0fe8924-341a-4971-9a49-6eef8c9a310e",
+      "relativeTime": 129,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -6.17
+    },
+    {
+      "id": "3c19ef83-1452-44b1-be70-f0b38590dad8",
+      "relativeTime": 130,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -5.86
+    },
+    {
+      "id": "633e07fb-f223-4ec2-97fb-675949719336",
+      "relativeTime": 131,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -5.62
+    },
+    {
+      "id": "c8dbfe1c-68b9-4d78-ad8c-5dd43a6e422e",
+      "relativeTime": 132,
+      "temperature": 130.7,
+      "heat": 12,
+      "ror": -5.43
+    },
+    {
+      "id": "9f300aa5-19f8-404b-a5d5-4d050d5b60c5",
+      "relativeTime": 133,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -5.12
+    },
+    {
+      "id": "fbb5919b-3349-44ec-925c-c2a01ac1eee9",
+      "relativeTime": 134,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -4.86
+    },
+    {
+      "id": "491208f4-d0f9-41b9-8d0c-d2466caaf39e",
+      "relativeTime": 135,
+      "temperature": 130.4,
+      "heat": 12,
+      "ror": -4.71
+    },
+    {
+      "id": "9834d5f5-e3fd-4652-8d5c-bd73bd3d6b8e",
+      "relativeTime": 136,
+      "temperature": 130.7,
+      "heat": 12,
+      "ror": -4.51
+    },
+    {
+      "id": "88d4e692-bffa-492c-9e46-e7d09a42708e",
+      "relativeTime": 137,
+      "temperature": 130.4,
+      "heat": 12,
+      "ror": -4.34
+    },
+    {
+      "id": "20ee8f24-8410-489b-ad44-2a2c7d66e74b",
+      "relativeTime": 138,
+      "temperature": 131.2,
+      "heat": 12,
+      "ror": -4.03
+    },
+    {
+      "id": "5afb2e57-93bf-4ee0-a9ce-a06eca61f3bf",
+      "relativeTime": 139,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -3.73
+    },
+    {
+      "id": "97f8c718-39ad-48c4-a211-db0a43d4f73d",
+      "relativeTime": 140,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -3.51
+    },
+    {
+      "id": "7231313f-6fb0-4587-bb20-d62844d579fd",
+      "relativeTime": 141,
+      "temperature": 131.2,
+      "heat": 12,
+      "ror": -3.24
+    },
+    {
+      "id": "d04dcd34-82b4-4e97-81df-4f7bb1ebb965",
+      "relativeTime": 142,
+      "temperature": 131.2,
+      "heat": 12,
+      "ror": -2.98
+    },
+    {
+      "id": "048c1796-8273-4309-9f1f-155de513dd41",
+      "relativeTime": 143,
+      "temperature": 130.9,
+      "heat": 12,
+      "ror": -2.83
+    },
+    {
+      "id": "d5edde36-7005-4c8b-bf8d-7fb2b2df6ed2",
+      "relativeTime": 144,
+      "temperature": 131.4,
+      "heat": 12,
+      "ror": -2.65
+    },
+    {
+      "id": "6517fbed-7c00-41e1-86e7-3307c4e97f8f",
+      "relativeTime": 145,
+      "temperature": 131.4,
+      "heat": 12,
+      "ror": -2.42
+    },
+    {
+      "id": "d0ffe79e-a47f-4555-b73d-b1b0a3a220f1",
+      "relativeTime": 146,
+      "temperature": 131.4,
+      "heat": 12,
+      "ror": -2.21
+    },
+    {
+      "id": "6f760d2d-e9dc-4440-a882-25cd080c5831",
+      "relativeTime": 147,
+      "temperature": 131.4,
+      "heat": 12,
+      "ror": -2.01
+    },
+    {
+      "id": "2a44feec-89f7-4713-83a5-9d7201ef30ec",
+      "relativeTime": 148,
+      "temperature": 131.4,
+      "heat": 12,
+      "ror": -1.78
+    },
+    {
+      "id": "45a7f4b7-3a05-4933-b780-195aed6e0cde",
+      "relativeTime": 149,
+      "temperature": 131.7,
+      "heat": 12,
+      "ror": -1.54
+    },
+    {
+      "id": "78bfcd76-5a74-4847-9c84-e3fb17c1de67",
+      "relativeTime": 150,
+      "temperature": 131.2,
+      "heat": 12,
+      "ror": -1.41
+    },
+    {
+      "id": "a4ed33d5-d414-4e48-8ebc-3476666c74f7",
+      "relativeTime": 151,
+      "temperature": 131.7,
+      "heat": 12,
+      "ror": -1.1
+    },
+    {
+      "id": "e2a493d9-8054-46b1-b8f5-dc4278a44a23",
+      "relativeTime": 152,
+      "temperature": 131.9,
+      "heat": 12,
+      "ror": -0.82
+    },
+    {
+      "id": "08f31ef0-095f-425a-986f-9caff81b8db2",
+      "relativeTime": 153,
+      "temperature": 131.4,
+      "heat": 12,
+      "ror": -0.59
+    },
+    {
+      "id": "c306f0b7-e766-4172-829c-d8fc09429b52",
+      "relativeTime": 154,
+      "temperature": 132.2,
+      "heat": 12,
+      "ror": -0.37
+    },
+    {
+      "id": "9f0a25b8-e35e-4e34-bc5c-09b53bde3670",
+      "relativeTime": 155,
+      "temperature": 131.9,
+      "heat": 12,
+      "ror": -0.16
+    },
+    {
+      "id": "c74d766a-d6c1-4b0b-b3b9-03ee381c3bbf",
+      "relativeTime": 156,
+      "temperature": 132.2,
+      "heat": 12,
+      "ror": 0.09
+    },
+    {
+      "id": "0de51103-18fd-4e80-8b89-1fae50012a69",
+      "relativeTime": 157,
+      "temperature": 132.2,
+      "heat": 12,
+      "ror": 0.27
+    },
+    {
+      "id": "2cb8d9aa-6f75-4f60-8107-ff839150cab3",
+      "relativeTime": 158,
+      "temperature": 131.9,
+      "heat": 12,
+      "ror": 0.39
+    },
+    {
+      "id": "04f2edf0-8db6-4560-987e-6d186f6e9394",
+      "relativeTime": 159,
+      "temperature": 132.4,
+      "heat": 12,
+      "ror": 0.65
+    },
+    {
+      "id": "48a05b6d-3f1d-4f0c-a670-6fbe65af332c",
+      "relativeTime": 160,
+      "temperature": 132.2,
+      "heat": 12,
+      "ror": 0.77
+    },
+    {
+      "id": "8d587451-3dd2-495c-a047-b65790d88bb8",
+      "relativeTime": 161,
+      "temperature": 132.4,
+      "heat": 12,
+      "ror": 0.92
+    },
+    {
+      "id": "b5abc151-1f32-4c65-ae48-8328912d239b",
+      "relativeTime": 162,
+      "temperature": 131.9,
+      "heat": 12,
+      "ror": 0.97
+    },
+    {
+      "id": "52f05325-fd14-47ac-bc66-b481070dac39",
+      "relativeTime": 163,
+      "temperature": 132.2,
+      "heat": 12,
+      "ror": 1.07
+    },
+    {
+      "id": "7ff1ce9e-8e35-421a-96a6-80de98519420",
+      "relativeTime": 164,
+      "temperature": 132.9,
+      "heat": 12,
+      "ror": 1.3
+    },
+    {
+      "id": "983d3827-9a61-43da-a22d-467b5005c8cc",
+      "relativeTime": 165,
+      "temperature": 132.9,
+      "heat": 12,
+      "ror": 1.46
+    },
+    {
+      "id": "46d166b1-e81b-4b64-a4ef-59c309a5a2eb",
+      "relativeTime": 166,
+      "temperature": 133.2,
+      "heat": 12,
+      "ror": 1.76
+    },
+    {
+      "id": "fe9f5f76-536c-4a73-a4ce-8edf8265a3b8",
+      "relativeTime": 167,
+      "temperature": 133.2,
+      "heat": 12,
+      "ror": 1.95
+    },
+    {
+      "id": "9e8335bd-cad9-44e2-a57f-752c70896cf9",
+      "relativeTime": 168,
+      "temperature": 133.2,
+      "heat": 12,
+      "ror": 2.1
+    },
+    {
+      "id": "e9574147-3bfc-413b-aba3-5f02a43ce236",
+      "relativeTime": 169,
+      "temperature": 133.2,
+      "heat": 12,
+      "ror": 2.33
+    },
+    {
+      "id": "840577cf-6b1e-4d96-a7e7-b4ccfad4436d",
+      "relativeTime": 170,
+      "temperature": 133.4,
+      "heat": 12,
+      "ror": 2.44
+    },
+    {
+      "id": "fead148b-353a-4787-a30d-88001833b622",
+      "relativeTime": 171,
+      "temperature": 132.9,
+      "heat": 12,
+      "ror": 2.51
+    },
+    {
+      "id": "bb2f1521-68b5-46ac-b5eb-be97e0811085",
+      "relativeTime": 172,
+      "temperature": 133.4,
+      "heat": 12,
+      "ror": 2.61
+    },
+    {
+      "id": "f86212bc-5ab5-4bc8-b9e6-36d9988b2b9f",
+      "relativeTime": 173,
+      "temperature": 133.4,
+      "heat": 12,
+      "ror": 2.7
+    },
+    {
+      "id": "53418867-24ca-4064-a965-401f48facbca",
+      "relativeTime": 174,
+      "temperature": 133.4,
+      "heat": 12,
+      "ror": 2.85
+    },
+    {
+      "id": "f298e9fb-afc5-489f-9325-52531ddf77b8",
+      "relativeTime": 175,
+      "temperature": 133.2,
+      "heat": 12,
+      "ror": 2.86
+    },
+    {
+      "id": "438e31b8-2fdf-40e7-8ae9-485a9e2f1e82",
+      "relativeTime": 176,
+      "temperature": 134.2,
+      "heat": 12,
+      "ror": 3.09
+    },
+    {
+      "id": "11afa594-4b9b-4eff-9fcd-712e7b552e2b",
+      "relativeTime": 177,
+      "temperature": 133.9,
+      "heat": 12,
+      "ror": 3.22
+    },
+    {
+      "id": "64cca1e0-41e0-4375-9e39-4413f970cb3d",
+      "relativeTime": 178,
+      "temperature": 134.2,
+      "heat": 12,
+      "ror": 3.49
+    },
+    {
+      "id": "88abc213-1ea3-4c64-b235-175b881d7e4e",
+      "relativeTime": 179,
+      "temperature": 134.2,
+      "heat": 12,
+      "ror": 3.69
+    },
+    {
+      "id": "05174bc0-a5ba-4341-abf0-62711c1c59cf",
+      "relativeTime": 180,
+      "temperature": 134.2,
+      "heat": 12,
+      "ror": 3.75
+    },
+    {
+      "id": "3a89b82f-56db-4957-a309-0d37a8e606e4",
+      "relativeTime": 181,
+      "temperature": 134.2,
+      "heat": 12,
+      "ror": 3.81
+    },
+    {
+      "id": "29b0f4be-1f41-4844-b216-873005c77def",
+      "relativeTime": 182,
+      "temperature": 134.4,
+      "heat": 12,
+      "ror": 3.84
+    },
+    {
+      "id": "9f8b218f-dd2f-441e-8340-62f0401a7094",
+      "relativeTime": 183,
+      "temperature": 134.4,
+      "heat": 12,
+      "ror": 3.87
+    },
+    {
+      "id": "fc2b4098-0e9a-4e33-aae2-a128d9f37e6f",
+      "relativeTime": 184,
+      "temperature": 134.4,
+      "heat": 12,
+      "ror": 3.9
+    },
+    {
+      "id": "c885112e-77a5-4cc7-99dc-94fd09a5ac91",
+      "relativeTime": 185,
+      "temperature": 134.9,
+      "heat": 12,
+      "ror": 4.02
+    },
+    {
+      "id": "e475aa3d-5614-4e7a-8493-7a7ec2c3c377",
+      "relativeTime": 186,
+      "temperature": 134.9,
+      "heat": 12,
+      "ror": 4.1
+    },
+    {
+      "id": "5fc86fff-9111-4fbd-a048-da835396825d",
+      "relativeTime": 187,
+      "temperature": 134.9,
+      "heat": 12,
+      "ror": 4.27
+    },
+    {
+      "id": "a740359b-982c-4899-8848-db4d6d10f5ed",
+      "relativeTime": 188,
+      "temperature": 134.9,
+      "heat": 12,
+      "ror": 4.34
+    },
+    {
+      "id": "4f1e6fae-d80e-4a69-bfaf-099a3c37770c",
+      "relativeTime": 189,
+      "temperature": 135.4,
+      "heat": 12,
+      "ror": 4.5
+    },
+    {
+      "id": "14233cbc-9d90-41a2-8c17-f00f10e158f8",
+      "relativeTime": 190,
+      "temperature": 134.9,
+      "heat": 12,
+      "ror": 4.56
+    },
+    {
+      "id": "4a861b30-a10f-4433-91bb-c9b2f222add7",
+      "relativeTime": 191,
+      "temperature": 135.7,
+      "heat": 12,
+      "ror": 4.8
+    },
+    {
+      "id": "4cba0103-7ab6-4b0f-a30b-1b03ef510255",
+      "relativeTime": 192,
+      "temperature": 135.7,
+      "heat": 12,
+      "ror": 4.84
+    },
+    {
+      "id": "ea4fb70b-ab08-4ff6-bafc-72f89f261d78",
+      "relativeTime": 193,
+      "temperature": 135.7,
+      "heat": 12,
+      "ror": 4.94
+    },
+    {
+      "id": "f7417e0f-66be-4f69-b0ef-14fb2caa7ab4",
+      "relativeTime": 194,
+      "temperature": 135.9,
+      "heat": 12,
+      "ror": 5.01
+    },
+    {
+      "id": "b9a5d0cd-e2ff-42d6-8918-f633b4188d26",
+      "relativeTime": 195,
+      "temperature": 135.9,
+      "heat": 12,
+      "ror": 5.08
+    },
+    {
+      "id": "1c88678a-01bd-4301-8551-bf4c85cc1ee7",
+      "relativeTime": 196,
+      "temperature": 135.9,
+      "heat": 12,
+      "ror": 5.14
+    },
+    {
+      "id": "78d93f26-5a55-4017-8199-cd44956fb315",
+      "relativeTime": 197,
+      "temperature": 136.2,
+      "heat": 12,
+      "ror": 5.26
+    },
+    {
+      "id": "595fd8a4-9519-4463-aab4-d8d3409497b3",
+      "relativeTime": 198,
+      "temperature": 136.2,
+      "heat": 12,
+      "ror": 5.33
+    },
+    {
+      "id": "b84f5448-0f37-4ba6-87c5-1d0816e80e64",
+      "relativeTime": 199,
+      "temperature": 135.9,
+      "heat": 12,
+      "ror": 5.34
+    },
+    {
+      "id": "4ca6e831-1a86-4a11-b3a5-4ccbc3820047",
+      "relativeTime": 200,
+      "temperature": 136.4,
+      "heat": 12,
+      "ror": 5.45
+    },
+    {
+      "id": "4071e3b7-c77f-41ef-a897-48ad553242ea",
+      "relativeTime": 201,
+      "temperature": 136.2,
+      "heat": 12,
+      "ror": 5.42
+    },
+    {
+      "id": "cc493c76-514a-4b95-bf1b-6e31285d503c",
+      "relativeTime": 202,
+      "temperature": 136.7,
+      "heat": 12,
+      "ror": 5.49
+    },
+    {
+      "id": "19ee84a3-a1cf-4c23-9adc-8aab08450539",
+      "relativeTime": 203,
+      "temperature": 136.4,
+      "heat": 12,
+      "ror": 5.5
+    },
+    {
+      "id": "a918599d-550f-4002-ab22-b72b9e9eefbc",
+      "relativeTime": 204,
+      "temperature": 136.9,
+      "heat": 12,
+      "ror": 5.6
+    },
+    {
+      "id": "a1327ef0-7fab-4eae-ba24-5492d74b374f",
+      "relativeTime": 205,
+      "temperature": 136.9,
+      "heat": 12,
+      "ror": 5.6
+    },
+    {
+      "id": "cd9d7b82-8cf0-4948-a410-ec7f698bd228",
+      "relativeTime": 206,
+      "temperature": 137.2,
+      "heat": 12,
+      "ror": 5.75
+    },
+    {
+      "id": "80e48dff-6a7c-4c57-861f-d06e35cc3793",
+      "relativeTime": 207,
+      "temperature": 137.2,
+      "heat": 12,
+      "ror": 5.74
+    },
+    {
+      "id": "97646052-7431-4b2b-bec7-ce070bc639d2",
+      "relativeTime": 208,
+      "temperature": 136.9,
+      "heat": 12,
+      "ror": 5.68
+    },
+    {
+      "id": "66f1f192-3234-4825-9238-6ec5d8a66cb6",
+      "relativeTime": 209,
+      "temperature": 137.4,
+      "heat": 12,
+      "ror": 5.71
+    },
+    {
+      "id": "254769d0-91c4-46ed-81c5-7de249efb629",
+      "relativeTime": 210,
+      "temperature": 137.4,
+      "heat": 12,
+      "ror": 5.71
+    },
+    {
+      "id": "075852e9-9673-4260-bdae-bf451886ea2c",
+      "relativeTime": 211,
+      "temperature": 137.9,
+      "heat": 12,
+      "ror": 5.8
+    },
+    {
+      "id": "a0f732be-72e3-493b-98ba-c7680280d8a0",
+      "relativeTime": 212,
+      "temperature": 137.4,
+      "heat": 12,
+      "ror": 5.79
+    },
+    {
+      "id": "16785df5-c142-4f83-8078-d98d1281fb00",
+      "relativeTime": 213,
+      "temperature": 138.2,
+      "heat": 12,
+      "ror": 5.88
+    },
+    {
+      "id": "aed79d1b-e56f-4e8d-96d4-aa154aed7d26",
+      "relativeTime": 214,
+      "temperature": 138.2,
+      "heat": 12,
+      "ror": 5.96
+    },
+    {
+      "id": "b5f362eb-9704-4eae-936e-cc2ad9c296f2",
+      "relativeTime": 215,
+      "temperature": 138.4,
+      "heat": 12,
+      "ror": 6.13
+    },
+    {
+      "id": "e874104c-b8da-4ab2-9054-be5a63f9a9e4",
+      "relativeTime": 216,
+      "temperature": 138.2,
+      "heat": 12,
+      "ror": 6.16
+    },
+    {
+      "id": "847752af-26c8-4166-9e56-1e28272f1798",
+      "relativeTime": 217,
+      "temperature": 138.7,
+      "heat": 12,
+      "ror": 6.32
+    },
+    {
+      "id": "64be266d-8e46-4021-bdac-507607a451a6",
+      "relativeTime": 218,
+      "temperature": 138.2,
+      "heat": 12,
+      "ror": 6.29
+    },
+    {
+      "id": "3caff27f-d616-4fa7-ac07-343b47814fc4",
+      "relativeTime": 219,
+      "temperature": 138.9,
+      "heat": 12,
+      "ror": 6.44
+    },
+    {
+      "id": "c5df694c-4289-451e-b0a3-95d9999b33a9",
+      "relativeTime": 220,
+      "temperature": 138.7,
+      "heat": 12,
+      "ror": 6.46
+    },
+    {
+      "id": "b3a26737-f7bf-4489-9b84-fc0d01ea4080",
+      "relativeTime": 221,
+      "temperature": 138.7,
+      "heat": 12,
+      "ror": 6.47
+    },
+    {
+      "id": "bd6e6413-969e-4235-811a-a558fee29437",
+      "relativeTime": 222,
+      "temperature": 139.2,
+      "heat": 12,
+      "ror": 6.52
+    },
+    {
+      "id": "f7e7a303-fe21-4aed-a1f8-8e4962315d10",
+      "relativeTime": 223,
+      "temperature": 139.4,
+      "heat": 12,
+      "ror": 6.61
+    },
+    {
+      "id": "f0fef526-d046-45f3-a3c1-69d24593f6e0",
+      "relativeTime": 224,
+      "temperature": 138.9,
+      "heat": 12,
+      "ror": 6.65
+    },
+    {
+      "id": "e9c01b3d-4a9e-4924-85cb-4e1e7570dc7c",
+      "relativeTime": 225,
+      "temperature": 139.2,
+      "heat": 12,
+      "ror": 6.65
+    },
+    {
+      "id": "dba30832-11a5-4e04-83bf-606c82e5a699",
+      "relativeTime": 226,
+      "temperature": 139.2,
+      "heat": 12,
+      "ror": 6.65
+    },
+    {
+      "id": "3ba0987c-0e3a-43b8-8062-ee80fb3a15d6",
+      "relativeTime": 227,
+      "temperature": 139.9,
+      "heat": 12,
+      "ror": 6.69
+    },
+    {
+      "id": "9b0f19e7-b4ad-4dd6-a14d-b31bf10e990e",
+      "relativeTime": 228,
+      "temperature": 139.7,
+      "heat": 12,
+      "ror": 6.79
+    },
+    {
+      "id": "5d62dbbf-2e0d-4ff6-8794-0707ebf4a71e",
+      "relativeTime": 229,
+      "temperature": 140.2,
+      "heat": 12,
+      "ror": 6.83
+    },
+    {
+      "id": "522b7e7f-a7b1-4481-be08-c2d4000f03d6",
+      "relativeTime": 230,
+      "temperature": 140.4,
+      "heat": 12,
+      "ror": 6.9
+    },
+    {
+      "id": "ca32d3ec-288c-4fd5-9459-9e0f4578b2c5",
+      "relativeTime": 231,
+      "temperature": 140.4,
+      "heat": 12,
+      "ror": 6.93
+    },
+    {
+      "id": "43ece7cc-a8b7-4f2a-ab89-e325d2777166",
+      "relativeTime": 232,
+      "temperature": 140.2,
+      "heat": 12,
+      "ror": 6.96
+    },
+    {
+      "id": "68b644ad-d8d4-41b6-a007-cb87899bb152",
+      "relativeTime": 233,
+      "temperature": 140.4,
+      "heat": 12,
+      "ror": 6.93
+    },
+    {
+      "id": "f4211d09-8573-4760-8cec-73ad77bcb92a",
+      "relativeTime": 234,
+      "temperature": 140.7,
+      "heat": 12,
+      "ror": 7.05
+    },
+    {
+      "id": "1aae479c-053f-4ac5-872c-26e7bdb5c6cc",
+      "relativeTime": 235,
+      "temperature": 140.7,
+      "heat": 12,
+      "ror": 7.03
+    },
+    {
+      "id": "b224d404-d723-41f3-a2fe-27c0c1513c03",
+      "relativeTime": 236,
+      "temperature": 141.2,
+      "heat": 12,
+      "ror": 7.15
+    },
+    {
+      "id": "6b8ceba2-a74c-41d0-8368-fc33fe745b8d",
+      "relativeTime": 237,
+      "temperature": 141.2,
+      "heat": 12,
+      "ror": 7.26
+    },
+    {
+      "id": "b888da2d-ab8e-4c4c-b27f-c87087f6d048",
+      "relativeTime": 238,
+      "temperature": 140.9,
+      "heat": 12,
+      "ror": 7.22
+    },
+    {
+      "id": "68dadf56-c3d0-43a9-a7b8-2ec476a4b9f8",
+      "relativeTime": 239,
+      "temperature": 141.4,
+      "heat": 12,
+      "ror": 7.23
+    },
+    {
+      "id": "d1ba7ff3-3012-42e9-81c9-60aa3962f6ba",
+      "relativeTime": 240,
+      "temperature": 141.7,
+      "heat": 12,
+      "ror": 7.39
+    },
+    {
+      "id": "ec868201-3956-442e-a94b-deea9ddfe250",
+      "relativeTime": 241,
+      "temperature": 141.7,
+      "heat": 12,
+      "ror": 7.49
+    },
+    {
+      "id": "45aef4e5-ce50-4b51-99d1-95950f0b947d",
+      "relativeTime": 242,
+      "temperature": 142.2,
+      "heat": 12,
+      "ror": 7.68
+    },
+    {
+      "id": "bc72e940-b682-4f61-93a4-1c7cd383adec",
+      "relativeTime": 243,
+      "temperature": 142.2,
+      "heat": 12,
+      "ror": 7.73
+    },
+    {
+      "id": "a583f13d-796f-4500-9a72-79ded1c5138f",
+      "relativeTime": 244,
+      "temperature": 141.9,
+      "heat": 12,
+      "ror": 7.76
+    },
+    {
+      "id": "94c58ceb-9b68-4800-9d22-6bac14561df0",
+      "relativeTime": 245,
+      "temperature": 142.2,
+      "heat": 12,
+      "ror": 7.75
+    },
+    {
+      "id": "d3d4477c-225f-4e01-a575-eb7af7d11213",
+      "relativeTime": 246,
+      "temperature": 142.7,
+      "heat": 12,
+      "ror": 7.79
+    },
+    {
+      "id": "b4fa16b0-0c93-42bd-99b2-2dc7741e3f45",
+      "relativeTime": 247,
+      "temperature": 142.7,
+      "heat": 12,
+      "ror": 7.83
+    },
+    {
+      "id": "c51392e7-e2ae-4d8b-b234-7c8b60ef6153",
+      "relativeTime": 248,
+      "temperature": 142.9,
+      "heat": 12,
+      "ror": 7.94
+    },
+    {
+      "id": "2e8e63b2-6274-4002-b2ae-2d518d777434",
+      "relativeTime": 249,
+      "temperature": 142.9,
+      "heat": 12,
+      "ror": 8.01
+    },
+    {
+      "id": "3c0e72c3-ddbc-4c1b-9e66-be2ab8d9f767",
+      "relativeTime": 250,
+      "temperature": 142.9,
+      "heat": 12,
+      "ror": 8.02
+    },
+    {
+      "id": "ae90323d-b76f-4e2f-b3d6-666e40cdae4c",
+      "relativeTime": 251,
+      "temperature": 143.2,
+      "heat": 12,
+      "ror": 8.09
+    },
+    {
+      "id": "80248953-b2cc-4904-8b20-b5d73ac9469c",
+      "relativeTime": 252,
+      "temperature": 143.9,
+      "heat": 12,
+      "ror": 8.19
+    },
+    {
+      "id": "00ccbb77-5af6-470b-a07e-fb722d0c731e",
+      "relativeTime": 253,
+      "temperature": 143.4,
+      "heat": 12,
+      "ror": 8.19
+    },
+    {
+      "id": "7798c05a-7cb2-4a7a-9b61-d3e7f0aff88b",
+      "relativeTime": 254,
+      "temperature": 143.9,
+      "heat": 12,
+      "ror": 8.34
+    },
+    {
+      "id": "2fd32a89-0d16-41dc-9aa3-135406041eac",
+      "relativeTime": 255,
+      "temperature": 143.7,
+      "heat": 12,
+      "ror": 8.35
+    },
+    {
+      "id": "abf0cc83-e6c3-4367-a7e5-d04a06a0a5fd",
+      "relativeTime": 256,
+      "temperature": 144.4,
+      "heat": 12,
+      "ror": 8.44
+    },
+    {
+      "id": "adbe3a63-0a55-43c0-a802-992c9aad025c",
+      "relativeTime": 257,
+      "temperature": 143.9,
+      "heat": 12,
+      "ror": 8.43
+    },
+    {
+      "id": "b0183e63-4f0e-4084-99e8-3ba64d82e6dd",
+      "relativeTime": 258,
+      "temperature": 144.4,
+      "heat": 12,
+      "ror": 8.42
+    },
+    {
+      "id": "910818ce-fb9a-46b0-bfbc-081704a12e06",
+      "relativeTime": 259,
+      "temperature": 144.7,
+      "heat": 12,
+      "ror": 8.47
+    },
+    {
+      "id": "44809792-f139-4031-8de3-49c91c02747d",
+      "relativeTime": 260,
+      "temperature": 144.7,
+      "heat": 12,
+      "ror": 8.57
+    },
+    {
+      "id": "ea6d1cc2-00e3-4f26-9313-e50832040cf3",
+      "relativeTime": 261,
+      "temperature": 144.7,
+      "heat": 12,
+      "ror": 8.61
+    },
+    {
+      "id": "da1c6d8e-ffdc-4d0a-a317-c99dc5eaf95d",
+      "relativeTime": 262,
+      "temperature": 144.9,
+      "heat": 12,
+      "ror": 8.59
+    },
+    {
+      "id": "af1727a4-faed-42f2-8616-e5d85e7a1e79",
+      "relativeTime": 263,
+      "temperature": 144.9,
+      "heat": 12,
+      "ror": 8.57
+    },
+    {
+      "id": "20ed5b8b-a60e-4746-ab93-8abae28a662a",
+      "relativeTime": 264,
+      "temperature": 145.4,
+      "heat": 12,
+      "ror": 8.61
+    },
+    {
+      "id": "bd027caf-85f4-43a9-802e-d0f0e49e371d",
+      "relativeTime": 265,
+      "temperature": 145.4,
+      "heat": 12,
+      "ror": 8.65
+    },
+    {
+      "id": "ff37b90a-45b8-4ed9-9632-dfde809d7d24",
+      "relativeTime": 266,
+      "temperature": 145.2,
+      "heat": 12,
+      "ror": 8.65
+    },
+    {
+      "id": "fa9d74f6-aaf2-4d02-995e-df8037754f6e",
+      "relativeTime": 267,
+      "temperature": 145.9,
+      "heat": 12,
+      "ror": 8.72
+    },
+    {
+      "id": "a4098fb0-27d0-44ed-b785-8c6ac70b07b5",
+      "relativeTime": 268,
+      "temperature": 145.9,
+      "heat": 12,
+      "ror": 8.66
+    },
+    {
+      "id": "ab57c215-043e-40ae-b61c-98db47a85e5d",
+      "relativeTime": 269,
+      "temperature": 146.2,
+      "heat": 12,
+      "ror": 8.75
+    },
+    {
+      "id": "b964bfdf-0aaf-4b00-9258-7cc24fc45ac0",
+      "relativeTime": 270,
+      "temperature": 146.2,
+      "heat": 12,
+      "ror": 8.74
+    },
+    {
+      "id": "2caa0b9d-1e23-4d7d-9afb-e07ee5612d9f",
+      "relativeTime": 271,
+      "temperature": 146.2,
+      "heat": 12,
+      "ror": 8.77
+    },
+    {
+      "id": "bd049ff0-c5d4-4c85-84df-745fb6e577f5",
+      "relativeTime": 272,
+      "temperature": 146.4,
+      "heat": 12,
+      "ror": 8.71
+    },
+    {
+      "id": "838680cb-67cb-40a4-9532-765917d9bbae",
+      "relativeTime": 273,
+      "temperature": 146.7,
+      "heat": 12,
+      "ror": 8.8
+    },
+    {
+      "id": "1d015530-df99-4eb6-a2c2-e96fddad9479",
+      "relativeTime": 274,
+      "temperature": 146.9,
+      "heat": 12,
+      "ror": 8.83
+    },
+    {
+      "id": "16e6f8bd-bf92-495d-9e7e-a547ff80a74e",
+      "relativeTime": 275,
+      "temperature": 147.2,
+      "heat": 12,
+      "ror": 8.86
+    },
+    {
+      "id": "3ea1b227-821b-4c54-8c3d-f447216531d9",
+      "relativeTime": 276,
+      "temperature": 147.2,
+      "heat": 12,
+      "ror": 8.89
+    },
+    {
+      "id": "55ed580e-6379-4022-9600-125955f60155",
+      "relativeTime": 277,
+      "temperature": 147.4,
+      "heat": 12,
+      "ror": 8.95
+    },
+    {
+      "id": "2e212b16-c77c-4546-962c-71ad878e5e4b",
+      "relativeTime": 278,
+      "temperature": 147.4,
+      "heat": 12,
+      "ror": 8.97
+    },
+    {
+      "id": "5742d36f-079b-4615-9f00-12b04b843744",
+      "relativeTime": 279,
+      "temperature": 147.4,
+      "heat": 12,
+      "ror": 8.99
+    },
+    {
+      "id": "49d5f7a0-8464-48b8-8beb-5caede21b6e9",
+      "relativeTime": 280,
+      "temperature": 147.7,
+      "heat": 12,
+      "ror": 8.97
+    },
+    {
+      "id": "de0fdb08-8e22-4b3f-94ee-55f5c662bb33",
+      "relativeTime": 281,
+      "temperature": 147.7,
+      "heat": 12,
+      "ror": 8.95
+    },
+    {
+      "id": "c540017c-c641-4bf0-aa0d-cf3773d589e5",
+      "relativeTime": 282,
+      "temperature": 148.2,
+      "heat": 12,
+      "ror": 9.06
+    },
+    {
+      "id": "10f8b523-318b-43bd-84d4-4a7de76a4ebc",
+      "relativeTime": 283,
+      "temperature": 148.4,
+      "heat": 12,
+      "ror": 9.08
+    },
+    {
+      "id": "c977fe64-6f47-4373-8f07-c55b6b908ad7",
+      "relativeTime": 284,
+      "temperature": 148.4,
+      "heat": 12,
+      "ror": 9.09
+    },
+    {
+      "id": "eb596728-af3b-42c3-875d-d9a76bb7936c",
+      "relativeTime": 285,
+      "temperature": 148.4,
+      "heat": 12,
+      "ror": 9.05
+    },
+    {
+      "id": "80ec7f1d-1cd1-4e71-8ee0-e2997f25de5e",
+      "relativeTime": 286,
+      "temperature": 148.7,
+      "heat": 12,
+      "ror": 9.07
+    },
+    {
+      "id": "07c56637-80a8-408d-a2f2-1618d37ac8c8",
+      "relativeTime": 287,
+      "temperature": 148.9,
+      "heat": 12,
+      "ror": 9.12
+    },
+    {
+      "id": "167bdb96-83a0-4526-972b-3efe5f40a528",
+      "relativeTime": 288,
+      "temperature": 149.2,
+      "heat": 12,
+      "ror": 9.19
+    },
+    {
+      "id": "b3d88797-d66e-44cb-8a21-c90918d9b436",
+      "relativeTime": 289,
+      "temperature": 149.4,
+      "heat": 12,
+      "ror": 9.24
+    },
+    {
+      "id": "90d84085-be1d-4974-a65b-d77e965706e0",
+      "relativeTime": 290,
+      "temperature": 149.2,
+      "heat": 12,
+      "ror": 9.21
+    },
+    {
+      "id": "5ea23e7a-99b3-4021-b12d-ca1bede2d46b",
+      "relativeTime": 291,
+      "temperature": 148.9,
+      "heat": 12,
+      "ror": 9.07
+    },
+    {
+      "id": "ad139fd2-c262-4a6d-97f0-76a58f4df151",
+      "relativeTime": 292,
+      "temperature": 149.7,
+      "heat": 12,
+      "ror": 9.09
+    },
+    {
+      "id": "99990f4c-56c4-412e-938e-679409f85495",
+      "relativeTime": 293,
+      "temperature": 149.4,
+      "heat": 12,
+      "ror": 9.01
+    },
+    {
+      "id": "16acdd30-239d-4542-98cb-b5d2dc2ef30e",
+      "relativeTime": 294,
+      "temperature": 149.4,
+      "heat": 12,
+      "ror": 8.93
+    },
+    {
+      "id": "53f76f6f-e24b-44ab-a91d-8dd404bcb5c9",
+      "relativeTime": 295,
+      "temperature": 150.2,
+      "heat": 12,
+      "ror": 9.01
+    },
+    {
+      "id": "14565c73-628c-472e-a700-3809e4e8d5f3",
+      "relativeTime": 296,
+      "temperature": 149.9,
+      "heat": 12,
+      "ror": 8.97
+    },
+    {
+      "id": "aadd2335-be54-40cf-9944-d304ef9ceb87",
+      "relativeTime": 297,
+      "temperature": 150.4,
+      "heat": 12,
+      "ror": 9.03
+    },
+    {
+      "id": "5d5e0c17-d351-4324-b633-bc069fb2d4bb",
+      "relativeTime": 298,
+      "temperature": 150.7,
+      "heat": 12,
+      "ror": 9.05
+    },
+    {
+      "id": "2b296328-d3a0-4062-b4be-74ad943367fc",
+      "relativeTime": 299,
+      "temperature": 150.7,
+      "heat": 12,
+      "ror": 9.03
+    },
+    {
+      "id": "ca9cdd3f-8cb7-44a9-a2da-041e178f629f",
+      "relativeTime": 300,
+      "temperature": 150.7,
+      "heat": 12,
+      "ror": 9.01
+    },
+    {
+      "id": "30b14164-0ccb-49c5-b8ff-f3ce3691c124",
+      "relativeTime": 301,
+      "temperature": 150.7,
+      "heat": 12,
+      "ror": 8.99
+    },
+    {
+      "id": "8801f6bc-82b2-4e12-bee6-5938b13b055c",
+      "relativeTime": 302,
+      "temperature": 151.2,
+      "heat": 12,
+      "ror": 9.01
+    },
+    {
+      "id": "5ae033da-7fa2-49f5-83b2-fa434de74bf8",
+      "relativeTime": 303,
+      "temperature": 151.4,
+      "heat": 12,
+      "ror": 9.03
+    },
+    {
+      "id": "6625bd98-2681-4a83-8d6d-bead8d6af436",
+      "relativeTime": 304,
+      "temperature": 151.7,
+      "heat": 12,
+      "ror": 9.05
+    },
+    {
+      "id": "10377ce4-0712-4a03-a588-2286ecfd7a8a",
+      "relativeTime": 305,
+      "temperature": 150.9,
+      "heat": 12,
+      "ror": 8.88
+    },
+    {
+      "id": "2e175240-ef94-4cfe-9615-e0177621b47c",
+      "relativeTime": 306,
+      "temperature": 151.9,
+      "heat": 12,
+      "ror": 8.94
+    },
+    {
+      "id": "5e5996c7-366f-424b-855d-a73cb521b490",
+      "relativeTime": 307,
+      "temperature": 151.7,
+      "heat": 12,
+      "ror": 9.02
+    },
+    {
+      "id": "4a174d40-610c-4cd8-9abe-1c727e038ea8",
+      "relativeTime": 308,
+      "temperature": 152.4,
+      "heat": 12,
+      "ror": 9.08
+    },
+    {
+      "id": "6e6af5d4-3976-48a9-b75a-05371e8f84f6",
+      "relativeTime": 309,
+      "temperature": 152.4,
+      "heat": 12,
+      "ror": 9.19
+    },
+    {
+      "id": "40e864dc-afa4-4518-ae2a-9c3ae1e9836c",
+      "relativeTime": 310,
+      "temperature": 152.4,
+      "heat": 12,
+      "ror": 9.29
+    },
+    {
+      "id": "72527f15-1989-4166-a3fa-385f59a2ffd5",
+      "relativeTime": 311,
+      "temperature": 152.4,
+      "heat": 12,
+      "ror": 9.24
+    },
+    {
+      "id": "9e5402df-4d60-44e5-b573-4f1b1d0535da",
+      "relativeTime": 312,
+      "temperature": 152.9,
+      "heat": 12,
+      "ror": 9.34
+    },
+    {
+      "id": "86df7fcc-9c2f-4193-b2d5-ca9c3af0ae4b",
+      "relativeTime": 313,
+      "temperature": 152.9,
+      "heat": 12,
+      "ror": 9.34
+    },
+    {
+      "id": "28a0e881-d862-415b-842b-201aaae4eb5e",
+      "relativeTime": 314,
+      "temperature": 153.2,
+      "heat": 12,
+      "ror": 9.34
+    },
+    {
+      "id": "28474d6f-a018-438e-a4f1-9ead154d2daa",
+      "relativeTime": 315,
+      "temperature": 153.2,
+      "heat": 12,
+      "ror": 9.34
+    },
+    {
+      "id": "e94cad03-9386-48b6-8ae0-649dec248bcb",
+      "relativeTime": 316,
+      "temperature": 153.7,
+      "heat": 12,
+      "ror": 9.44
+    },
+    {
+      "id": "fb6333f4-8f43-447a-b7dc-681c0e8a4072",
+      "relativeTime": 317,
+      "temperature": 153.4,
+      "heat": 12,
+      "ror": 9.47
+    },
+    {
+      "id": "f536416d-07fd-4169-95ce-ed2e6453ef03",
+      "relativeTime": 318,
+      "temperature": 153.7,
+      "heat": 12,
+      "ror": 9.47
+    },
+    {
+      "id": "56aa137c-baf5-48ca-811d-61198fb105e3",
+      "relativeTime": 319,
+      "temperature": 153.9,
+      "heat": 12,
+      "ror": 9.47
+    },
+    {
+      "id": "999f3489-6ed8-4523-8c88-1cc918511c42",
+      "relativeTime": 320,
+      "temperature": 154.2,
+      "heat": 12,
+      "ror": 9.47
+    },
+    {
+      "id": "6a92b54c-4e99-4ab9-8c55-110e68ca0d42",
+      "relativeTime": 321,
+      "temperature": 154.4,
+      "heat": 12,
+      "ror": 9.65
+    },
+    {
+      "id": "d1e6dc5d-2071-4e2f-a588-7d2830c0a4e1",
+      "relativeTime": 322,
+      "temperature": 154.7,
+      "heat": 12,
+      "ror": 9.69
+    },
+    {
+      "id": "a40da601-3f88-4b4d-ac5c-2eed189ac4c0",
+      "relativeTime": 323,
+      "temperature": 154.4,
+      "heat": 12,
+      "ror": 9.71
+    },
+    {
+      "id": "f7e11187-6e9d-48e3-bdaf-77aaa97f6460",
+      "relativeTime": 324,
+      "temperature": 154.9,
+      "heat": 12,
+      "ror": 9.69
+    },
+    {
+      "id": "15463c36-108d-43ed-a5f2-9664f8cda14e",
+      "relativeTime": 325,
+      "temperature": 154.9,
+      "heat": 12,
+      "ror": 9.67
+    },
+    {
+      "id": "9b7b5905-93ef-4428-aa73-ae379b59805c",
+      "relativeTime": 326,
+      "temperature": 155.2,
+      "heat": 12,
+      "ror": 9.71
+    },
+    {
+      "id": "6df9a6e6-0ac9-43b6-87c3-1e60af1bd5b1",
+      "relativeTime": 327,
+      "temperature": 155.2,
+      "heat": 12,
+      "ror": 9.75
+    },
+    {
+      "id": "91932185-f415-4312-9c47-5fd605a3beb0",
+      "relativeTime": 328,
+      "temperature": 155.7,
+      "heat": 12,
+      "ror": 9.79
+    },
+    {
+      "id": "3a06e966-ebbb-4740-be96-155b9a2fd5db",
+      "relativeTime": 329,
+      "temperature": 155.4,
+      "heat": 12,
+      "ror": 9.77
+    },
+    {
+      "id": "32d50eda-ac03-408d-b2a8-e35d41dc242f",
+      "relativeTime": 330,
+      "temperature": 155.4,
+      "heat": 12,
+      "ror": 9.69
+    },
+    {
+      "id": "905f0318-6ac3-4a13-8f75-8e74b2ed7ad9",
+      "relativeTime": 331,
+      "temperature": 155.9,
+      "heat": 12,
+      "ror": 9.71
+    },
+    {
+      "id": "5e60431a-448a-4485-a6d3-4c212da1c2bd",
+      "relativeTime": 332,
+      "temperature": 155.9,
+      "heat": 12,
+      "ror": 9.64
+    },
+    {
+      "id": "114a1cbe-9479-4d03-9a06-cc42d03104fc",
+      "relativeTime": 333,
+      "temperature": 156.2,
+      "heat": 12,
+      "ror": 9.68
+    },
+    {
+      "id": "21c15634-6778-42a5-ae95-91764d5344ff",
+      "relativeTime": 334,
+      "temperature": 156.4,
+      "heat": 12,
+      "ror": 9.7
+    },
+    {
+      "id": "6417f946-08e7-4053-8da6-8ec3adcc76b0",
+      "relativeTime": 335,
+      "temperature": 156.7,
+      "heat": 12,
+      "ror": 9.74
+    },
+    {
+      "id": "14f5f2a9-544c-4cf9-a5c6-642a8e12e068",
+      "relativeTime": 336,
+      "temperature": 156.7,
+      "heat": 12,
+      "ror": 9.72
+    },
+    {
+      "id": "23faf503-46b9-45ef-a499-691493063ac9",
+      "relativeTime": 337,
+      "temperature": 156.9,
+      "heat": 12,
+      "ror": 9.7
+    },
+    {
+      "id": "d51aade0-4352-4469-929a-4689e18be4e7",
+      "relativeTime": 338,
+      "temperature": 156.7,
+      "heat": 12,
+      "ror": 9.59
+    },
+    {
+      "id": "84feec22-f09e-40ab-a68d-9316e67b7d92",
+      "relativeTime": 339,
+      "temperature": 157.2,
+      "heat": 12,
+      "ror": 9.64
+    },
+    {
+      "id": "f6b92f1b-9dd5-4214-a98d-3557de4d1d73",
+      "relativeTime": 340,
+      "temperature": 157.2,
+      "heat": 12,
+      "ror": 9.59
+    },
+    {
+      "id": "77f9c318-9c54-4130-9e88-3f862144bb5f",
+      "relativeTime": 341,
+      "temperature": 157.4,
+      "heat": 12,
+      "ror": 9.58
+    },
+    {
+      "id": "b4c67ed9-5692-42de-8e8c-44e6b0a0777f",
+      "relativeTime": 342,
+      "temperature": 157.2,
+      "heat": 12,
+      "ror": 9.48
+    },
+    {
+      "id": "b8511ae8-ddca-4a43-90bf-1dadbea6fca8",
+      "relativeTime": 343,
+      "temperature": 157.4,
+      "heat": 12,
+      "ror": 9.42
+    },
+    {
+      "id": "c17299e0-3be9-42d7-a07e-676c5f072488",
+      "relativeTime": 344,
+      "temperature": 157.7,
+      "heat": 12,
+      "ror": 9.32
+    },
+    {
+      "id": "157f88d7-75a9-4d56-afc3-fb78ea0d0817",
+      "relativeTime": 345,
+      "temperature": 157.9,
+      "heat": 12,
+      "ror": 9.32
+    },
+    {
+      "id": "1b2368fb-6c96-49a2-a774-ec56b64ca4c5",
+      "relativeTime": 346,
+      "temperature": 158.4,
+      "heat": 12,
+      "ror": 9.42
+    },
+    {
+      "id": "953f3bfd-e1fe-459c-a730-7268aa954725",
+      "relativeTime": 347,
+      "temperature": 158.4,
+      "heat": 12,
+      "ror": 9.42
+    },
+    {
+      "id": "ac7150b4-1a5f-4d4a-938c-a877f104313a",
+      "relativeTime": 348,
+      "temperature": 158.7,
+      "heat": 12,
+      "ror": 9.47
+    },
+    {
+      "id": "c24dd31f-9863-4184-999f-3c5a5627bc17",
+      "relativeTime": 349,
+      "temperature": 158.7,
+      "heat": 12,
+      "ror": 9.47
+    },
+    {
+      "id": "c150d7af-4761-4fd4-ae0b-092cad8216a1",
+      "relativeTime": 350,
+      "temperature": 158.4,
+      "heat": 12,
+      "ror": 9.37
+    },
+    {
+      "id": "0aac5acf-00e0-4cb3-ace4-c25727a7f090",
+      "relativeTime": 351,
+      "temperature": 159.2,
+      "heat": 12,
+      "ror": 9.37
+    },
+    {
+      "id": "b8f1bcf5-24a3-4526-950b-1ab1093c8370",
+      "relativeTime": 352,
+      "temperature": 159.4,
+      "heat": 12,
+      "ror": 9.41
+    },
+    {
+      "id": "56807cb8-d9f7-4630-91f0-8a550510db55",
+      "relativeTime": 353,
+      "temperature": 159.4,
+      "heat": 12,
+      "ror": 9.41
+    },
+    {
+      "id": "08d858b0-e11d-45aa-a158-b5036d0e04f7",
+      "relativeTime": 354,
+      "temperature": 159.4,
+      "heat": 12,
+      "ror": 9.45
+    },
+    {
+      "id": "2a180b6b-38ce-4307-a30d-5cb6337cfb42",
+      "relativeTime": 355,
+      "temperature": 159.7,
+      "heat": 12,
+      "ror": 9.45
+    },
+    {
+      "id": "1e3c8797-1db7-43b7-ae3f-bc1246822b66",
+      "relativeTime": 356,
+      "temperature": 159.9,
+      "heat": 12,
+      "ror": 9.48
+    },
+    {
+      "id": "8aa1038b-8f8f-43fe-9723-61a9c2234392",
+      "relativeTime": 357,
+      "temperature": 159.9,
+      "heat": 12,
+      "ror": 9.47
+    },
+    {
+      "id": "15e9d5cc-8d9a-4e6a-b630-77c17f8f64ec",
+      "relativeTime": 358,
+      "temperature": 160.4,
+      "heat": 12,
+      "ror": 9.6
+    },
+    {
+      "id": "b41bb522-6c41-488c-bdc0-5e09c318416d",
+      "relativeTime": 359,
+      "temperature": 160.4,
+      "heat": 12,
+      "ror": 9.68
+    },
+    {
+      "id": "51c44f93-0ecd-4b66-a334-283dd5c5b280",
+      "relativeTime": 360,
+      "temperature": 160.7,
+      "heat": 12,
+      "ror": 9.76
+    },
+    {
+      "id": "b3b63909-c36a-44bd-b7b3-8d0f2a78c43e",
+      "relativeTime": 361,
+      "temperature": 160.7,
+      "heat": 12,
+      "ror": 9.8
+    },
+    {
+      "id": "9814e7e6-217a-439f-ac6d-89a8f94721f5",
+      "relativeTime": 362,
+      "temperature": 160.9,
+      "heat": 12,
+      "ror": 9.78
+    },
+    {
+      "id": "5708e5d8-92a1-45e3-b59e-cda6dc1d998d",
+      "relativeTime": 363,
+      "temperature": 161.4,
+      "heat": 12,
+      "ror": 9.85
+    },
+    {
+      "id": "e8400e6d-01af-43a4-96f9-cdf56c0071fe",
+      "relativeTime": 364,
+      "temperature": 160.7,
+      "heat": 12,
+      "ror": 9.73
+    },
+    {
+      "id": "e0d978d4-22d4-4227-8748-167f5748e22c",
+      "relativeTime": 365,
+      "temperature": 161.2,
+      "heat": 12,
+      "ror": 9.71
+    },
+    {
+      "id": "a8aaa9ab-0952-4d77-bfd6-3dbc307310ad",
+      "relativeTime": 366,
+      "temperature": 161.2,
+      "heat": 12,
+      "ror": 9.75
+    },
+    {
+      "id": "2102e706-2d2a-4d99-bd69-9bda74585d70",
+      "relativeTime": 367,
+      "temperature": 161.7,
+      "heat": 12,
+      "ror": 9.73
+    },
+    {
+      "id": "ccc6b330-4c78-4bcc-bea6-6f537ef82f13",
+      "relativeTime": 368,
+      "temperature": 161.9,
+      "heat": 12,
+      "ror": 9.71
+    },
+    {
+      "id": "fa38bdbb-d748-4f45-8af7-67c2a4146654",
+      "relativeTime": 369,
+      "temperature": 161.9,
+      "heat": 12,
+      "ror": 9.69
+    },
+    {
+      "id": "bcd02fad-61f7-4c43-9ac3-ca816b920749",
+      "relativeTime": 370,
+      "temperature": 162.4,
+      "heat": 12,
+      "ror": 9.77
+    },
+    {
+      "id": "c91d90e1-6be8-4022-b485-78967f64a88a",
+      "relativeTime": 371,
+      "temperature": 162.4,
+      "heat": 12,
+      "ror": 9.79
+    },
+    {
+      "id": "9eb4d2d1-dd58-4876-a1ae-79a2d920f55d",
+      "relativeTime": 372,
+      "temperature": 162.4,
+      "heat": 12,
+      "ror": 9.77
+    },
+    {
+      "id": "7925a346-96de-494d-886a-7dd0fe9f4aa2",
+      "relativeTime": 373,
+      "temperature": 162.7,
+      "heat": 12,
+      "ror": 9.81
+    },
+    {
+      "id": "71f8bd8d-e052-4bd2-bee4-671d29bf7d13",
+      "relativeTime": 374,
+      "temperature": 162.9,
+      "heat": 12,
+      "ror": 9.79
+    },
+    {
+      "id": "fa52b67f-7bec-41e9-93e3-4e4932cc05c3",
+      "relativeTime": 375,
+      "temperature": 163.2,
+      "heat": 12,
+      "ror": 9.83
+    },
+    {
+      "id": "903b21d5-78f2-4013-8094-1ec77e0a051e",
+      "relativeTime": 376,
+      "temperature": 163.4,
+      "heat": 12,
+      "ror": 9.84
+    },
+    {
+      "id": "f76e19a9-0459-4ed3-95f9-b6980e54f8d0",
+      "relativeTime": 377,
+      "temperature": 163.4,
+      "heat": 12,
+      "ror": 9.85
+    },
+    {
+      "id": "2e0d1f82-60fa-4498-ac30-94b755f86f13",
+      "relativeTime": 378,
+      "temperature": 163.4,
+      "heat": 12,
+      "ror": 9.83
+    },
+    {
+      "id": "059ec2cf-f83b-45ff-9e92-a5f6067ff149",
+      "relativeTime": 379,
+      "temperature": 163.7,
+      "heat": 12,
+      "ror": 9.77
+    },
+    {
+      "id": "3697a3f6-156c-4351-b8c8-73b48457dbeb",
+      "relativeTime": 380,
+      "temperature": 163.9,
+      "heat": 12,
+      "ror": 9.88
+    },
+    {
+      "id": "2c40d66e-b214-4ab0-94d7-55429882fcca",
+      "relativeTime": 381,
+      "temperature": 164.2,
+      "heat": 12,
+      "ror": 9.95
+    },
+    {
+      "id": "aa3141dd-240f-4372-9f42-b865f11e9fff",
+      "relativeTime": 382,
+      "temperature": 164.2,
+      "heat": 12,
+      "ror": 10.01
+    },
+    {
+      "id": "e35f18a1-ca7b-4e8d-9963-1e287e939774",
+      "relativeTime": 383,
+      "temperature": 164.7,
+      "heat": 12,
+      "ror": 10.07
+    },
+    {
+      "id": "76ba79b9-0097-4e1f-8edf-003bd2117c3f",
+      "relativeTime": 384,
+      "temperature": 164.4,
+      "heat": 12,
+      "ror": 10.04
+    },
+    {
+      "id": "7f1ccbb5-6154-4de4-9aae-c71ddf890664",
+      "relativeTime": 385,
+      "temperature": 164.7,
+      "heat": 12,
+      "ror": 10.06
+    },
+    {
+      "id": "1c6f733a-cb6a-4ca6-934a-c5538b3c740f",
+      "relativeTime": 386,
+      "temperature": 165.2,
+      "heat": 12,
+      "ror": 10.08
+    },
+    {
+      "id": "bc423fe4-5153-496c-ab4b-162ad2c3593e",
+      "relativeTime": 387,
+      "temperature": 164.9,
+      "heat": 12,
+      "ror": 10.04
+    },
+    {
+      "id": "6e1c174f-63a8-496f-b8c8-428a6296ecea",
+      "relativeTime": 388,
+      "temperature": 165.2,
+      "heat": 12,
+      "ror": 10.06
+    },
+    {
+      "id": "20d289f5-b076-491f-9a95-ef0c2eb42f20",
+      "relativeTime": 389,
+      "temperature": 165.7,
+      "heat": 12,
+      "ror": 10.12
+    },
+    {
+      "id": "2f92c703-75ad-4bf2-960c-930057f35b7b",
+      "relativeTime": 390,
+      "temperature": 165.4,
+      "heat": 12,
+      "ror": 10.08
+    },
+    {
+      "id": "34b1b43b-8533-4118-a90b-a7cea3874898",
+      "relativeTime": 391,
+      "temperature": 165.7,
+      "heat": 12,
+      "ror": 10.04
+    },
+    {
+      "id": "40f20068-f75c-4f5c-9c67-a54bde528d92",
+      "relativeTime": 392,
+      "temperature": 165.9,
+      "heat": 12,
+      "ror": 10.01
+    },
+    {
+      "id": "f565e1f2-a08c-43af-a22c-560211a1ba72",
+      "relativeTime": 393,
+      "temperature": 166.2,
+      "heat": 12,
+      "ror": 10.03
+    },
+    {
+      "id": "dfad0e6c-093c-4758-a126-2f7bf905bc66",
+      "relativeTime": 394,
+      "temperature": 166.4,
+      "heat": 12,
+      "ror": 10.09
+    },
+    {
+      "id": "655c59d7-e8a8-4838-9ff5-b2e98fbef5eb",
+      "relativeTime": 395,
+      "temperature": 166.7,
+      "heat": 12,
+      "ror": 10.15
+    },
+    {
+      "id": "7b49325f-bf9b-4848-a99f-1466a1b7c501",
+      "relativeTime": 396,
+      "temperature": 166.4,
+      "heat": 12,
+      "ror": 10.11
+    },
+    {
+      "id": "eec57de1-63db-43ab-b583-8c7e02dba7c5",
+      "relativeTime": 397,
+      "temperature": 166.9,
+      "heat": 12,
+      "ror": 10.11
+    },
+    {
+      "id": "0bd048df-d7b8-4318-b5f2-63dd46568cdb",
+      "relativeTime": 398,
+      "temperature": 167.2,
+      "heat": 12,
+      "ror": 10.17
+    },
+    {
+      "id": "fb9280d4-54ad-4c33-b67f-5c19fc76d125",
+      "relativeTime": 399,
+      "temperature": 167.4,
+      "heat": 12,
+      "ror": 10.17
+    },
+    {
+      "id": "7d821d85-4c0b-4802-976c-088596b2d077",
+      "relativeTime": 400,
+      "temperature": 167.7,
+      "heat": 12,
+      "ror": 10.28
+    },
+    {
+      "id": "586ab864-a808-4edf-91af-4fffafe9021c",
+      "relativeTime": 401,
+      "temperature": 167.7,
+      "heat": 12,
+      "ror": 10.33
+    },
+    {
+      "id": "9e021861-2dba-4188-afcd-13c8cdaeb912",
+      "relativeTime": 402,
+      "temperature": 167.9,
+      "heat": 12,
+      "ror": 10.32
+    },
+    {
+      "id": "5397f2e3-fed0-4314-bc6d-16ca6f40cafc",
+      "relativeTime": 403,
+      "temperature": 167.7,
+      "heat": 12,
+      "ror": 10.33
+    },
+    {
+      "id": "2b905e27-0567-4fa9-a898-1b90c4178d06",
+      "relativeTime": 404,
+      "temperature": 168.2,
+      "heat": 12,
+      "ror": 10.38
+    },
+    {
+      "id": "d9ba646e-8d68-4dd2-9a40-6100bed3ca50",
+      "relativeTime": 405,
+      "temperature": 168.2,
+      "heat": 12,
+      "ror": 10.33
+    },
+    {
+      "id": "b4de79c8-a1f2-4ecc-869e-d50b7d430bf4",
+      "relativeTime": 406,
+      "temperature": 168.7,
+      "heat": 12,
+      "ror": 10.43
+    },
+    {
+      "id": "d690cafd-1206-4284-bc26-a6ac2c57c3fa",
+      "relativeTime": 407,
+      "temperature": 168.4,
+      "heat": 12,
+      "ror": 10.41
+    },
+    {
+      "id": "4f8541ed-b07b-4e0f-9916-d3cf8b03063c",
+      "relativeTime": 408,
+      "temperature": 168.4,
+      "heat": 12,
+      "ror": 10.36
+    },
+    {
+      "id": "7f26ed3a-f681-421e-8f59-5e29c15c7181",
+      "relativeTime": 409,
+      "temperature": 168.7,
+      "heat": 12,
+      "ror": 10.31
+    },
+    {
+      "id": "2a0f1d8f-7f6b-4788-b6ec-ed314db5a806",
+      "relativeTime": 410,
+      "temperature": 169.4,
+      "heat": 12,
+      "ror": 10.36
+    },
+    {
+      "id": "8f86b7d5-5e4b-48d1-9954-d8a62b649105",
+      "relativeTime": 411,
+      "temperature": 168.4,
+      "heat": 12,
+      "ror": 10.16
+    },
+    {
+      "id": "4f1158e8-b6e8-4fbd-8713-010edc71dc34",
+      "relativeTime": 412,
+      "temperature": 169.7,
+      "heat": 12,
+      "ror": 10.27
+    },
+    {
+      "id": "d0abbbb0-600a-416a-8129-6580c3890244",
+      "relativeTime": 413,
+      "temperature": 169.4,
+      "heat": 12,
+      "ror": 10.23
+    },
+    {
+      "id": "a8fba8ff-7a62-4f52-add9-c188f7a68bde",
+      "relativeTime": 414,
+      "temperature": 169.9,
+      "heat": 12,
+      "ror": 10.22
+    },
+    {
+      "id": "408d6ed8-0782-4a58-8c99-455037d3722d",
+      "relativeTime": 415,
+      "temperature": 170.2,
+      "heat": 12,
+      "ror": 10.23
+    },
+    {
+      "id": "12c208a6-7090-42f2-88c9-971aca0bbca0",
+      "relativeTime": 416,
+      "temperature": 169.9,
+      "heat": 12,
+      "ror": 10.13
+    },
+    {
+      "id": "4c0b5a8d-30ec-4867-a080-4d4e7952199b",
+      "relativeTime": 417,
+      "temperature": 170.2,
+      "heat": 12,
+      "ror": 10.09
+    },
+    {
+      "id": "0760eee7-a650-4664-a270-6903cca8e7e2",
+      "relativeTime": 418,
+      "temperature": 170.2,
+      "heat": 12,
+      "ror": 10.02
+    },
+    {
+      "id": "9a630872-8525-4ba2-ab9d-4947d85b7444",
+      "relativeTime": 419,
+      "temperature": 170.9,
+      "heat": 12,
+      "ror": 10.12
+    },
+    {
+      "id": "fbb7157f-bcea-48c4-b0af-f808881bf2c1",
+      "relativeTime": 420,
+      "temperature": 170.9,
+      "heat": 12,
+      "ror": 10.12
+    },
+    {
+      "id": "2cd25466-c57e-472e-a2c0-c50c948002ed",
+      "relativeTime": 421,
+      "temperature": 171.2,
+      "heat": 12,
+      "ror": 10.18
+    },
+    {
+      "id": "efac6331-0268-4130-923f-4ef4955ce24f",
+      "relativeTime": 422,
+      "temperature": 171.4,
+      "heat": 12,
+      "ror": 10.18
+    },
+    {
+      "id": "41d606f0-25fb-4363-972b-fb556bdabf82",
+      "relativeTime": 423,
+      "temperature": 171.2,
+      "heat": 12,
+      "ror": 10.2
+    },
+    {
+      "id": "34494d98-f8d2-4330-8d4c-776e423f95b6",
+      "relativeTime": 424,
+      "temperature": 171.7,
+      "heat": 12,
+      "ror": 10.31
+    },
+    {
+      "id": "f48f571c-8abe-409e-8f53-f56ec1769dea",
+      "relativeTime": 425,
+      "temperature": 171.9,
+      "heat": 12,
+      "ror": 10.39
+    },
+    {
+      "id": "2014c09a-c3dd-455d-83e2-a5c24ca1eb66",
+      "relativeTime": 426,
+      "temperature": 172.2,
+      "heat": 12,
+      "ror": 10.4
+    },
+    {
+      "id": "7a91fa77-2aa9-4957-9109-d5861ceb0239",
+      "relativeTime": 427,
+      "temperature": 172.2,
+      "heat": 12,
+      "ror": 10.59
+    },
+    {
+      "id": "810df450-cb36-4c2b-a8e5-e3584601f37f",
+      "relativeTime": 428,
+      "temperature": 172.4,
+      "heat": 12,
+      "ror": 10.57
+    },
+    {
+      "id": "e2832e48-1e9a-4728-a88e-58a49b937298",
+      "relativeTime": 429,
+      "temperature": 172.7,
+      "heat": 12,
+      "ror": 10.66
+    },
+    {
+      "id": "987718c2-1b86-47f8-89bb-921707db09cc",
+      "relativeTime": 430,
+      "temperature": 172.4,
+      "heat": 12,
+      "ror": 10.6
+    },
+    {
+      "id": "41417336-20ac-44b9-9add-e820fa26d31e",
+      "relativeTime": 431,
+      "temperature": 172.9,
+      "heat": 12,
+      "ror": 10.58
+    },
+    {
+      "id": "47b12708-f9c5-4a53-a7df-67afbc671043",
+      "relativeTime": 432,
+      "temperature": 172.9,
+      "heat": 12,
+      "ror": 10.61
+    },
+    {
+      "id": "afdd891e-b100-4b46-9dea-e59dc763ca34",
+      "relativeTime": 433,
+      "temperature": 172.9,
+      "heat": 12,
+      "ror": 10.59
+    },
+    {
+      "id": "c1b738d6-ee8d-4e40-8a46-43aa7fa7f3a0",
+      "relativeTime": 434,
+      "temperature": 173.2,
+      "heat": 12,
+      "ror": 10.62
+    },
+    {
+      "id": "d6cd0e23-2081-44a1-98ff-177f56cfe386",
+      "relativeTime": 435,
+      "temperature": 173.7,
+      "heat": 12,
+      "ror": 10.61
+    },
+    {
+      "id": "0924442a-2195-43f8-903c-b32df15948e1",
+      "relativeTime": 436,
+      "temperature": 173.7,
+      "heat": 12,
+      "ror": 10.6
+    },
+    {
+      "id": "d1004c15-d3c3-4ae1-a674-797fae002f6f",
+      "relativeTime": 437,
+      "temperature": 173.7,
+      "heat": 12,
+      "ror": 10.54
+    },
+    {
+      "id": "49695515-871a-48ec-a87d-c0a1c472bcd9",
+      "relativeTime": 438,
+      "temperature": 173.9,
+      "heat": 12,
+      "ror": 10.48
+    },
+    {
+      "id": "c2d62c50-cbec-4316-80fa-4f456f02210a",
+      "relativeTime": 439,
+      "temperature": 173.7,
+      "heat": 12,
+      "ror": 10.42
+    },
+    {
+      "id": "aa7c4461-7a9b-4e86-a235-2c7b7c4cf40c",
+      "relativeTime": 440,
+      "temperature": 174.2,
+      "heat": 12,
+      "ror": 10.37
+    },
+    {
+      "id": "20e35c77-50b3-4721-b46d-f003d5c766a1",
+      "relativeTime": 441,
+      "temperature": 174.4,
+      "heat": 12,
+      "ror": 10.32
+    },
+    {
+      "id": "dad91db7-40ec-424e-ad3f-ab0742b47066",
+      "relativeTime": 442,
+      "temperature": 174.7,
+      "heat": 12,
+      "ror": 10.27
+    },
+    {
+      "id": "ac0ed85a-ede4-49c2-83fa-89976edcd636",
+      "relativeTime": 443,
+      "temperature": 174.4,
+      "heat": 12,
+      "ror": 10.17
+    },
+    {
+      "id": "997f723b-8b24-4331-8bb0-19ea1ad30fa6",
+      "relativeTime": 444,
+      "temperature": 174.7,
+      "heat": 12,
+      "ror": 10.09
+    },
+    {
+      "id": "2de8ee8e-8c96-4493-90d3-a8d5200a7049",
+      "relativeTime": 445,
+      "temperature": 174.7,
+      "heat": 12,
+      "ror": 9.96
+    },
+    {
+      "id": "a1ee89f7-f821-4e09-b1e0-c6ce03de8eb4",
+      "relativeTime": 446,
+      "temperature": 174.9,
+      "heat": 12,
+      "ror": 9.93
+    },
+    {
+      "id": "71d679fa-9c59-4b1e-a522-5012fa783e67",
+      "relativeTime": 447,
+      "temperature": 175.4,
+      "heat": 12,
+      "ror": 9.9
+    },
+    {
+      "id": "12d240d2-894a-4c9f-a671-e4fffb0fc67c",
+      "relativeTime": 448,
+      "temperature": 175.7,
+      "heat": 12,
+      "ror": 9.93
+    },
+    {
+      "id": "434a5be7-c2a9-4ab2-a8e5-19cc423487a5",
+      "relativeTime": 449,
+      "temperature": 175.9,
+      "heat": 12,
+      "ror": 10
+    },
+    {
+      "id": "b772ae3f-bf17-43e8-a8d2-a42a1d872c51",
+      "relativeTime": 450,
+      "temperature": 175.9,
+      "heat": 12,
+      "ror": 10.01
+    },
+    {
+      "id": "9ab20022-134a-40d2-a757-41d17cf0fbdf",
+      "relativeTime": 451,
+      "temperature": 176.2,
+      "heat": 12,
+      "ror": 9.98
+    },
+    {
+      "id": "be48a373-4927-4db0-ab5d-a104320e5c94",
+      "relativeTime": 452,
+      "temperature": 176.4,
+      "heat": 12,
+      "ror": 9.99
+    },
+    {
+      "id": "c9624069-0c47-4b47-9fe2-5ccc74db611f",
+      "relativeTime": 453,
+      "temperature": 176.2,
+      "heat": 12,
+      "ror": 9.96
+    },
+    {
+      "id": "913bca47-39cd-4d05-9b7e-67d66ac9099f",
+      "relativeTime": 454,
+      "temperature": 176.7,
+      "heat": 12,
+      "ror": 9.99
+    },
+    {
+      "id": "738dd24d-0e32-4a9b-93f1-19bf5a4f3870",
+      "relativeTime": 455,
+      "temperature": 176.7,
+      "heat": 12,
+      "ror": 10.05
+    },
+    {
+      "id": "5091a3a2-42e9-42e8-94da-a8bb43e5a5cd",
+      "relativeTime": 456,
+      "temperature": 176.7,
+      "heat": 12,
+      "ror": 10.02
+    },
+    {
+      "id": "98eeacf7-aa61-4be6-85b7-74e23686b1c5",
+      "relativeTime": 457,
+      "temperature": 176.7,
+      "heat": 12,
+      "ror": 9.95
+    },
+    {
+      "id": "1a4588da-cce3-42a6-928c-c3ae2bbdc821",
+      "relativeTime": 458,
+      "temperature": 177.2,
+      "heat": 12,
+      "ror": 9.92
+    },
+    {
+      "id": "d28e9bc1-8347-4784-aa7c-dacaf805f4ce",
+      "relativeTime": 459,
+      "temperature": 177.2,
+      "heat": 12,
+      "ror": 9.95
+    },
+    {
+      "id": "01a34009-9740-4a30-b519-6df846bd9ebc",
+      "relativeTime": 460,
+      "temperature": 177.4,
+      "heat": 12,
+      "ror": 9.96
+    },
+    {
+      "id": "9938419c-ba70-4af5-a579-60953ba0d980",
+      "relativeTime": 461,
+      "temperature": 177.7,
+      "heat": 12,
+      "ror": 10.02
+    },
+    {
+      "id": "ee0f3980-8c06-4162-a6a8-c23d5c2ce586",
+      "relativeTime": 462,
+      "temperature": 177.7,
+      "heat": 12,
+      "ror": 10.04
+    },
+    {
+      "id": "902f676d-64bf-4452-8c44-d17388009182",
+      "relativeTime": 463,
+      "temperature": 177.7,
+      "heat": 12,
+      "ror": 9.97
+    },
+    {
+      "id": "8eb83357-c0d6-4cc2-b7ad-e702dfd5eda7",
+      "relativeTime": 464,
+      "temperature": 178.4,
+      "heat": 12,
+      "ror": 9.98
+    },
+    {
+      "id": "83151806-ad77-4774-b1d5-b832bb271531",
+      "relativeTime": 465,
+      "temperature": 177.4,
+      "heat": 12,
+      "ror": 9.76
+    },
+    {
+      "id": "b10b0ae4-f560-40ac-bd8e-3dd4c3a1e925",
+      "relativeTime": 466,
+      "temperature": 178.2,
+      "heat": 12,
+      "ror": 9.7
+    },
+    {
+      "id": "3eed277c-d572-4a63-9e3e-a906ff87081a",
+      "relativeTime": 467,
+      "temperature": 178.7,
+      "heat": 12,
+      "ror": 9.68
+    },
+    {
+      "id": "a247964a-63b8-4b31-b9c6-c3cd5d90527e",
+      "relativeTime": 468,
+      "temperature": 178.7,
+      "heat": 12,
+      "ror": 9.63
+    },
+    {
+      "id": "4f40bdc0-0cda-4198-b56c-e1a6991ea1bb",
+      "relativeTime": 469,
+      "temperature": 178.9,
+      "heat": 12,
+      "ror": 9.65
+    },
+    {
+      "id": "b15ed544-1e4f-48c4-8b56-35de2d2332fa",
+      "relativeTime": 470,
+      "temperature": 178.9,
+      "heat": 12,
+      "ror": 9.58
+    },
+    {
+      "id": "ff723af1-26f2-49b3-bfd3-ed348b591f67",
+      "relativeTime": 471,
+      "temperature": 178.7,
+      "heat": 12,
+      "ror": 9.48
+    },
+    {
+      "id": "67045603-2866-4e30-ac09-2e9d5f018208",
+      "relativeTime": 472,
+      "temperature": 178.9,
+      "heat": 12,
+      "ror": 9.42
+    },
+    {
+      "id": "462944bc-277f-4caa-9442-4ded5caa1147",
+      "relativeTime": 473,
+      "temperature": 179.4,
+      "heat": 12,
+      "ror": 9.46
+    },
+    {
+      "id": "51680c81-f6c7-4475-8e90-e6ae7a1055e2",
+      "relativeTime": 474,
+      "temperature": 179.4,
+      "heat": 12,
+      "ror": 9.4
+    },
+    {
+      "id": "3ba3f04c-bc86-4bc7-9ce7-6c2f7eca7cab",
+      "relativeTime": 475,
+      "temperature": 179.4,
+      "heat": 12,
+      "ror": 9.34
+    },
+    {
+      "id": "a9954374-797e-4704-9291-3131efe9fa9f",
+      "relativeTime": 476,
+      "temperature": 179.9,
+      "heat": 12,
+      "ror": 9.34
+    },
+    {
+      "id": "70eaf457-fca3-479c-8caf-f4810fe3a6e7",
+      "relativeTime": 477,
+      "temperature": 180.4,
+      "heat": 12,
+      "ror": 9.38
+    },
+    {
+      "id": "efbcbf0d-308e-43b8-8397-8d2d89e1ba2c",
+      "relativeTime": 478,
+      "temperature": 180.4,
+      "heat": 12,
+      "ror": 9.42
+    },
+    {
+      "id": "45326975-545b-4aef-a360-4bcebe3d97fc",
+      "relativeTime": 479,
+      "temperature": 180.2,
+      "heat": 12,
+      "ror": 9.42
+    },
+    {
+      "id": "07b48454-9a5c-4a5d-8748-53ee6ae14e2c",
+      "relativeTime": 480,
+      "temperature": 180.7,
+      "heat": 12,
+      "ror": 9.38
+    },
+    {
+      "id": "e6a0ea92-b6b1-4de2-887a-579a38325e11",
+      "relativeTime": 481,
+      "temperature": 180.9,
+      "heat": 12,
+      "ror": 9.57
+    },
+    {
+      "id": "d878093b-a8c0-4356-8efa-cb0d555e6899",
+      "relativeTime": 482,
+      "temperature": 180.4,
+      "heat": 12,
+      "ror": 9.5
+    },
+    {
+      "id": "bec20457-8ff5-4dba-8433-cb92fef580da",
+      "relativeTime": 483,
+      "temperature": 181.2,
+      "heat": 12,
+      "ror": 9.49
+    },
+    {
+      "id": "2f635c0f-d1a7-465d-8b0e-4909428d28aa",
+      "relativeTime": 484,
+      "temperature": 181.4,
+      "heat": 12,
+      "ror": 9.52
+    },
+    {
+      "id": "08ea86c3-39f3-4689-9b63-7c4dd75a8074",
+      "relativeTime": 485,
+      "temperature": 180.7,
+      "heat": 12,
+      "ror": 9.38
+    },
+    {
+      "id": "52001997-9353-4708-abf7-b164fba9951e",
+      "relativeTime": 486,
+      "temperature": 181.4,
+      "heat": 12,
+      "ror": 9.38
+    },
+    {
+      "id": "f4e76a00-8e58-4fb1-a7ae-d424de2a11ce",
+      "relativeTime": 487,
+      "temperature": 181.4,
+      "heat": 12,
+      "ror": 9.42
+    },
+    {
+      "id": "a7b4a576-013f-4a88-a6d7-67a738ce81ec",
+      "relativeTime": 488,
+      "temperature": 182.2,
+      "heat": 12,
+      "ror": 9.57
+    },
+    {
+      "id": "2b945ebb-2aac-468e-9a15-e38466bd0d41",
+      "relativeTime": 489,
+      "temperature": 181.9,
+      "heat": 12,
+      "ror": 9.56
+    },
+    {
+      "id": "126028e6-6a55-41fe-9645-d5898e32eaf0",
+      "relativeTime": 490,
+      "temperature": 182.2,
+      "heat": 12,
+      "ror": 9.61
+    },
+    {
+      "id": "889720d8-8791-4ac2-ab6c-1e049b087914",
+      "relativeTime": 491,
+      "temperature": 182.4,
+      "heat": 12,
+      "ror": 9.69
+    },
+    {
+      "id": "c01ace58-8b9c-41cd-a934-d97dc7572515",
+      "relativeTime": 492,
+      "temperature": 182.4,
+      "heat": 12,
+      "ror": 9.67
+    },
+    {
+      "id": "78257aa0-bea7-4eba-9651-66d5ab3ed038",
+      "relativeTime": 493,
+      "temperature": 182.9,
+      "heat": 12,
+      "ror": 9.66
+    },
+    {
+      "id": "678b2a64-6b86-4330-8c96-d203bbb3fe20",
+      "relativeTime": 494,
+      "temperature": 183.2,
+      "heat": 12,
+      "ror": 9.7
+    },
+    {
+      "id": "8a0af1a5-1bff-463e-8329-01cbd5b1230f",
+      "relativeTime": 495,
+      "temperature": 182.9,
+      "heat": 12,
+      "ror": 9.72
+    },
+    {
+      "id": "f7c409e5-3b53-43bc-9d1a-cf0bfa3e2338",
+      "relativeTime": 496,
+      "temperature": 183.4,
+      "heat": 12,
+      "ror": 9.74
+    },
+    {
+      "id": "e2358684-3f55-4c29-b2c7-4bcb35817c90",
+      "relativeTime": 497,
+      "temperature": 183.4,
+      "heat": 12,
+      "ror": 9.72
+    },
+    {
+      "id": "a8314b49-7b58-49e4-a4d4-7f17d2f61965",
+      "relativeTime": 498,
+      "temperature": 183.9,
+      "heat": 12,
+      "ror": 9.89
+    },
+    {
+      "id": "9db9fb3f-593f-4bd3-8fe9-7b2ddcc7502a",
+      "relativeTime": 499,
+      "temperature": 183.9,
+      "heat": 12,
+      "ror": 9.9
+    },
+    {
+      "id": "7a4b0b13-be03-4ae9-8ab3-64e65ee0ae62",
+      "relativeTime": 500,
+      "temperature": 183.9,
+      "heat": 12,
+      "ror": 9.87
+    },
+    {
+      "id": "d3fba0a0-25b9-470f-a2d5-8ace3812ca67",
+      "relativeTime": 501,
+      "temperature": 184.4,
+      "heat": 12,
+      "ror": 10.07
+    },
+    {
+      "id": "72d9a287-1481-4e3e-9177-4634c87baf3a",
+      "relativeTime": 502,
+      "temperature": 184.4,
+      "heat": 12,
+      "ror": 10.13
+    },
+    {
+      "id": "6cf6d941-40f8-4145-9d7a-636c37000936",
+      "relativeTime": 503,
+      "temperature": 184.2,
+      "heat": 12,
+      "ror": 10.15
+    },
+    {
+      "id": "9451aa58-7b03-43fc-8b4a-5255b8414020",
+      "relativeTime": 504,
+      "temperature": 184.7,
+      "heat": 12,
+      "ror": 10.11
+    },
+    {
+      "id": "7caa0d43-bde8-4a9c-a359-831e37066d59",
+      "relativeTime": 505,
+      "temperature": 184.4,
+      "heat": 12,
+      "ror": 10.07
+    },
+    {
+      "id": "49d5047a-d4f9-45cd-838c-bda236d475f0",
+      "relativeTime": 506,
+      "temperature": 184.9,
+      "heat": 12,
+      "ror": 10.07
+    },
+    {
+      "id": "be574d83-2041-4e48-b318-86287bc16274",
+      "relativeTime": 507,
+      "temperature": 184.7,
+      "heat": 12,
+      "ror": 10
+    },
+    {
+      "id": "ab6a26e3-2c95-45c2-a8ea-d0fe26202d69",
+      "relativeTime": 508,
+      "temperature": 185.2,
+      "heat": 12,
+      "ror": 10.02
+    },
+    {
+      "id": "e5caaa37-4a28-4972-a20d-79593912e32e",
+      "relativeTime": 509,
+      "temperature": 185.2,
+      "heat": 12,
+      "ror": 9.95
+    },
+    {
+      "id": "ebcdbf96-7f9f-4e15-83e3-99328aa91564",
+      "relativeTime": 510,
+      "temperature": 185.7,
+      "heat": 12,
+      "ror": 9.92
+    },
+    {
+      "id": "07bbfbe8-b239-4547-b53a-fe014ca74f89",
+      "relativeTime": 511,
+      "temperature": 185.4,
+      "heat": 12,
+      "ror": 9.89
+    },
+    {
+      "id": "3ecb283d-8ddb-4ed1-bed0-e4394ec3452a",
+      "relativeTime": 512,
+      "temperature": 185.7,
+      "heat": 12,
+      "ror": 9.83
+    },
+    {
+      "id": "b8d24889-07bb-4204-ac09-ae61ab245076",
+      "relativeTime": 513,
+      "temperature": 186.2,
+      "heat": 12,
+      "ror": 9.86
+    },
+    {
+      "id": "7e139b22-2797-429c-9b86-32484c69e467",
+      "relativeTime": 514,
+      "temperature": 186.2,
+      "heat": 12,
+      "ror": 9.8
+    },
+    {
+      "id": "829ff5f5-f033-4688-98db-ae6744bb6ca8",
+      "relativeTime": 515,
+      "temperature": 186.2,
+      "heat": 12,
+      "ror": 9.74
+    },
+    {
+      "id": "68b0fd76-19f3-40bc-91cd-171e37c65183",
+      "relativeTime": 516,
+      "temperature": 186.9,
+      "heat": 12,
+      "ror": 9.82
+    },
+    {
+      "id": "9e4a9258-8de6-4f7c-a78d-ce0393dfbd44",
+      "relativeTime": 517,
+      "temperature": 186.9,
+      "heat": 12,
+      "ror": 9.8
+    },
+    {
+      "id": "5679669c-7a1d-462e-bedc-085d9ee62975",
+      "relativeTime": 518,
+      "temperature": 186.7,
+      "heat": 12,
+      "ror": 9.74
+    },
+    {
+      "id": "db7d79b4-1960-47f1-a553-a9c040b2fb40",
+      "relativeTime": 519,
+      "temperature": 187.2,
+      "heat": 12,
+      "ror": 9.82
+    },
+    {
+      "id": "b95586b1-46b4-4b99-8103-193f2e1f75ed",
+      "relativeTime": 520,
+      "temperature": 187.2,
+      "heat": 12,
+      "ror": 9.8
+    },
+    {
+      "id": "071d448c-e363-49b7-bd30-1320db40c89d",
+      "relativeTime": 521,
+      "temperature": 187.9,
+      "heat": 12,
+      "ror": 9.97
+    },
+    {
+      "id": "fd0dc155-4dcf-4777-8261-a2152f63fe92",
+      "relativeTime": 522,
+      "temperature": 187.7,
+      "heat": 12,
+      "ror": 10
+    },
+    {
+      "id": "bd9925b5-9112-4f45-991b-b7aff7c4d837",
+      "relativeTime": 523,
+      "temperature": 187.9,
+      "heat": 12,
+      "ror": 10.1
+    },
+    {
+      "id": "02663494-5ba4-448d-9d9e-6c5217019652",
+      "relativeTime": 524,
+      "temperature": 187.9,
+      "heat": 12,
+      "ror": 10.1
+    },
+    {
+      "id": "fc207d2e-ac04-41be-b1f8-bf84b831d8cd",
+      "relativeTime": 525,
+      "temperature": 188.2,
+      "heat": 12,
+      "ror": 10.16
+    },
+    {
+      "id": "92546d8c-5287-41a8-83c5-f2cd08ffe821",
+      "relativeTime": 526,
+      "temperature": 188.2,
+      "heat": 12,
+      "ror": 10.12
+    },
+    {
+      "id": "a07dac40-9255-4dfb-b1b2-5276ec619dad",
+      "relativeTime": 527,
+      "temperature": 188.2,
+      "heat": 12,
+      "ror": 10.14
+    },
+    {
+      "id": "34a874c9-4de0-4b0d-9859-27d6361834bf",
+      "relativeTime": 528,
+      "temperature": 188.9,
+      "heat": 12,
+      "ror": 10.23
+    },
+    {
+      "id": "534a1936-a4ba-46b3-962f-d72fd8bd6564",
+      "relativeTime": 529,
+      "temperature": 189.2,
+      "heat": 12,
+      "ror": 10.28
+    },
+    {
+      "id": "39ba453f-2ebc-461a-b744-c50e3ebe9a62",
+      "relativeTime": 530,
+      "temperature": 189.2,
+      "heat": 12,
+      "ror": 10.33
+    },
+    {
+      "id": "e9f8ea36-d5a5-444f-b314-51458cea8144",
+      "relativeTime": 531,
+      "temperature": 189.2,
+      "heat": 12,
+      "ror": 10.38
+    },
+    {
+      "id": "498708c3-84a6-4b1b-b165-776802590327",
+      "relativeTime": 532,
+      "temperature": 189.4,
+      "heat": 12,
+      "ror": 10.33
+    },
+    {
+      "id": "80e67a79-52b1-4b53-97b2-8f60181ca669",
+      "relativeTime": 533,
+      "temperature": 189.9,
+      "heat": 12,
+      "ror": 10.38
+    },
+    {
+      "id": "02edbf81-1310-498c-94b8-3b820040fba9",
+      "relativeTime": 534,
+      "temperature": 189.7,
+      "heat": 12,
+      "ror": 10.42
+    },
+    {
+      "id": "4dce4525-4fa5-48cb-b9db-9c2114e3f214",
+      "relativeTime": 535,
+      "temperature": 190.2,
+      "heat": 12,
+      "ror": 10.46
+    },
+    {
+      "id": "f815b267-47e9-470b-ab3f-291137550a2d",
+      "relativeTime": 536,
+      "temperature": 190.2,
+      "heat": 12,
+      "ror": 10.5
+    },
+    {
+      "id": "8ca4bc1a-c2ff-4c1a-9a6f-ae1d57afa0c1",
+      "relativeTime": 537,
+      "temperature": 189.9,
+      "heat": 12,
+      "ror": 10.35
+    },
+    {
+      "id": "3f957c09-1c84-4626-b01b-9bbd968fc89e",
+      "relativeTime": 538,
+      "temperature": 190.7,
+      "heat": 12,
+      "ror": 10.39
+    },
+    {
+      "id": "b470c4d8-4b5a-48b4-b2e3-d0486eb3e774",
+      "relativeTime": 539,
+      "temperature": 190.7,
+      "heat": 12,
+      "ror": 10.4
+    },
+    {
+      "id": "0585b8ee-5af4-41ec-bfb2-238fce2eb34c",
+      "relativeTime": 540,
+      "temperature": 190.9,
+      "heat": 12,
+      "ror": 10.44
+    },
+    {
+      "id": "e8f9f113-b948-4089-acee-7f3d13642c93",
+      "relativeTime": 541,
+      "temperature": 190.9,
+      "heat": 12,
+      "ror": 10.42
+    },
+    {
+      "id": "6721e13f-2fbc-4461-81fc-9cb6bcbfaad8",
+      "relativeTime": 542,
+      "temperature": 191.2,
+      "heat": 12,
+      "ror": 10.46
+    },
+    {
+      "id": "3feb1e2c-9ec6-4b8f-8c04-4e1dee913a55",
+      "relativeTime": 543,
+      "temperature": 191.4,
+      "heat": 12,
+      "ror": 10.54
+    },
+    {
+      "id": "d1f3c5c2-a37f-4a11-bea1-0ba4673ee6a8",
+      "relativeTime": 544,
+      "temperature": 190.9,
+      "heat": 12,
+      "ror": 10.39
+    },
+    {
+      "id": "e8096fdf-cf1e-453e-8168-2f0f0fb60936",
+      "relativeTime": 545,
+      "temperature": 192.2,
+      "heat": 12,
+      "ror": 10.43
+    },
+    {
+      "id": "20db8035-ac54-44be-82e1-c38bcbce1405",
+      "relativeTime": 546,
+      "temperature": 192.2,
+      "heat": 12,
+      "ror": 10.47
+    },
+    {
+      "id": "431f0659-ff99-4455-9e7a-59feb68926ef",
+      "relativeTime": 547,
+      "temperature": 192.2,
+      "heat": 12,
+      "ror": 10.51
+    },
+    {
+      "id": "3bced6f7-78cc-4bba-9ba7-df9ddc54ec0c",
+      "relativeTime": 548,
+      "temperature": 192.7,
+      "heat": 12,
+      "ror": 10.6
+    },
+    {
+      "id": "e2916afd-faa7-4cab-bf5e-aad264f4d95a",
+      "relativeTime": 549,
+      "temperature": 192.7,
+      "heat": 12,
+      "ror": 10.59
+    },
+    {
+      "id": "e4c7fff0-8a78-43b3-8646-ec6a3a344d94",
+      "relativeTime": 550,
+      "temperature": 192.7,
+      "heat": 12,
+      "ror": 10.62
+    },
+    {
+      "id": "6f35bff3-576a-4ac4-88bb-8c42be70ded1",
+      "relativeTime": 551,
+      "temperature": 192.9,
+      "heat": 12,
+      "ror": 10.6
+    },
+    {
+      "id": "79d2d62f-7abe-4a74-a686-e6c8ea608fa3",
+      "relativeTime": 552,
+      "temperature": 193.2,
+      "heat": 12,
+      "ror": 10.63
+    },
+    {
+      "id": "6eeea7b1-44b9-4654-947f-7bd9b50a9a66",
+      "relativeTime": 553,
+      "temperature": 193.2,
+      "heat": 12,
+      "ror": 10.72
+    },
+    {
+      "id": "2ca04b32-4cdd-447e-a632-6d301c215270",
+      "relativeTime": 554,
+      "temperature": 193.2,
+      "heat": 12,
+      "ror": 10.65
+    },
+    {
+      "id": "4ad9c08e-c643-4143-9050-9cdb5ebef7e4",
+      "relativeTime": 555,
+      "temperature": 193.7,
+      "heat": 12,
+      "ror": 10.68
+    },
+    {
+      "id": "9023785c-e9fc-41bb-b3c0-5a014167c766",
+      "relativeTime": 556,
+      "temperature": 193.7,
+      "heat": 12,
+      "ror": 10.67
+    },
+    {
+      "id": "5a174079-d596-42b8-97ed-2ee512966755",
+      "relativeTime": 557,
+      "temperature": 193.9,
+      "heat": 12,
+      "ror": 10.7
+    },
+    {
+      "id": "a1eac4b7-8142-44f2-9501-659681e487cc",
+      "relativeTime": 558,
+      "temperature": 194.4,
+      "heat": 12,
+      "ror": 10.77
+    },
+    {
+      "id": "98a4574a-a7fa-472b-aeee-62d9242a73c2",
+      "relativeTime": 559,
+      "temperature": 194.4,
+      "heat": 12,
+      "ror": 10.79
+    },
+    {
+      "id": "9a97decc-d2f7-4df6-ab86-8e519d2e1fc3",
+      "relativeTime": 560,
+      "temperature": 194.7,
+      "heat": 12,
+      "ror": 10.96
+    },
+    {
+      "id": "b042321f-2099-4102-af4b-19f820571c8a",
+      "relativeTime": 561,
+      "temperature": 194.4,
+      "heat": 12,
+      "ror": 10.82
+    },
+    {
+      "id": "6df0cb92-5e42-4362-b61f-9d4eb7b8bc7f",
+      "relativeTime": 562,
+      "temperature": 195.2,
+      "heat": 12,
+      "ror": 10.84
+    },
+    {
+      "id": "f252b1cd-18e9-48fe-86d5-da56e7243cb9",
+      "relativeTime": 563,
+      "temperature": 194.9,
+      "heat": 12,
+      "ror": 10.8
+    },
+    {
+      "id": "ecaed0a8-95b8-417c-bb1a-5d2ef85111dd",
+      "relativeTime": 564,
+      "temperature": 195.4,
+      "heat": 12,
+      "ror": 10.77
+    },
+    {
+      "id": "67ceffc3-4ed0-447d-bea1-683123e5f6bd",
+      "relativeTime": 565,
+      "temperature": 195.4,
+      "heat": 12,
+      "ror": 10.74
+    },
+    {
+      "id": "4d0ef772-2bb4-414d-9fd8-f25640a0b8bf",
+      "relativeTime": 566,
+      "temperature": 195.7,
+      "heat": 12,
+      "ror": 10.77
+    },
+    {
+      "id": "deafe9e8-a5cd-4d3b-a7af-c5ae6a68b461",
+      "relativeTime": 567,
+      "temperature": 195.7,
+      "heat": 12,
+      "ror": 10.76
+    },
+    {
+      "id": "c738c99d-3464-4c3b-a47c-72f7ac4fcb84",
+      "relativeTime": 568,
+      "temperature": 195.7,
+      "heat": 12,
+      "ror": 10.69
+    },
+    {
+      "id": "149e53e4-a844-4066-a9ad-1477e8670ed2",
+      "relativeTime": 569,
+      "temperature": 196.2,
+      "heat": 12,
+      "ror": 10.72
+    },
+    {
+      "id": "00a5d5ee-3302-4c98-ba9e-a36fe45dfb6e",
+      "relativeTime": 570,
+      "temperature": 196.2,
+      "heat": 12,
+      "ror": 10.75
+    },
+    {
+      "id": "cfe464d2-45f0-4ea1-92cc-629d86728bac",
+      "relativeTime": 571,
+      "temperature": 196.4,
+      "heat": 12,
+      "ror": 10.72
+    },
+    {
+      "id": "81c8f4ee-b4d6-4792-8885-19e1bf5767cc",
+      "relativeTime": 572,
+      "temperature": 196.7,
+      "heat": 12,
+      "ror": 10.75
+    },
+    {
+      "id": "0f6302d6-40c2-42d2-a2dd-c2e96301563c",
+      "relativeTime": 573,
+      "temperature": 196.7,
+      "heat": 12,
+      "ror": 10.74
+    },
+    {
+      "id": "a5360f39-c104-4df5-b6bf-5fe82455650f",
+      "relativeTime": 574,
+      "temperature": 197.2,
+      "heat": 12,
+      "ror": 10.73
+    },
+    {
+      "id": "0c587329-cf21-4214-8e59-f3f9ca183ef2",
+      "relativeTime": 575,
+      "temperature": 197.2,
+      "heat": 12,
+      "ror": 10.72
+    },
+    {
+      "id": "05fd71ba-b306-4d6b-8c52-442faeb50cf5",
+      "relativeTime": 576,
+      "temperature": 197.7,
+      "heat": 12,
+      "ror": 10.75
+    },
+    {
+      "id": "4b01067b-96f8-4206-9fcc-6bffd0215287",
+      "relativeTime": 577,
+      "temperature": 197.7,
+      "heat": 12,
+      "ror": 10.83
+    },
+    {
+      "id": "d4c53671-8a94-46c2-a0d4-452c287e4df9",
+      "relativeTime": 578,
+      "temperature": 197.2,
+      "heat": 12,
+      "ror": 10.66
+    },
+    {
+      "id": "3cb0293c-ba91-4a35-a7b0-7dd307842004",
+      "relativeTime": 579,
+      "temperature": 197.7,
+      "heat": 12,
+      "ror": 10.65
+    },
+    {
+      "id": "f30cc331-2c7b-4020-bb4e-ed963f0ee8e4",
+      "relativeTime": 580,
+      "temperature": 198.2,
+      "heat": 12,
+      "ror": 10.64
+    },
+    {
+      "id": "b1aa1e27-8e91-4efe-a00d-470907a477c2",
+      "relativeTime": 581,
+      "temperature": 198.4,
+      "heat": 11,
+      "ror": 10.67
+    },
+    {
+      "id": "95c7dc8b-9e23-4e1f-bc3f-87b889bddedc",
+      "relativeTime": 582,
+      "temperature": 198.4,
+      "heat": 11,
+      "ror": 10.64
+    },
+    {
+      "id": "3f63a135-6f13-409d-a219-27d9fc5c790c",
+      "relativeTime": 583,
+      "temperature": 198.7,
+      "heat": 11,
+      "ror": 10.67
+    },
+    {
+      "id": "af043ac6-8e44-4f68-9eea-e89d5c02deea",
+      "relativeTime": 584,
+      "temperature": 198.2,
+      "heat": 11,
+      "ror": 10.61
+    },
+    {
+      "id": "24fb97b4-1285-448e-bdc0-edeabca8dcc0",
+      "relativeTime": 585,
+      "temperature": 199.2,
+      "heat": 11,
+      "ror": 10.64
+    },
+    {
+      "id": "02d8164b-6258-4f9e-b8b3-2ca97a6f1beb",
+      "relativeTime": 586,
+      "temperature": 198.9,
+      "heat": 11,
+      "ror": 10.61
+    },
+    {
+      "id": "3f7cb7b8-5602-42b7-aba2-6ef1ac9c766c",
+      "relativeTime": 587,
+      "temperature": 199.2,
+      "heat": 11,
+      "ror": 10.6
+    },
+    {
+      "id": "1bb20126-d14a-49b5-88b0-1447cb0e6e90",
+      "relativeTime": 588,
+      "temperature": 199.4,
+      "heat": 11,
+      "ror": 10.58
+    },
+    {
+      "id": "5009af4f-dfd9-4583-85fe-0977a01dbd4a",
+      "relativeTime": 589,
+      "temperature": 199.9,
+      "heat": 11,
+      "ror": 10.65
+    },
+    {
+      "id": "45a709a8-ed07-43b6-8948-19a6d96ac2ac",
+      "relativeTime": 590,
+      "temperature": 199.7,
+      "heat": 11,
+      "ror": 10.59
+    },
+    {
+      "id": "3687d948-e963-4e5a-9268-f6b32b5c02f1",
+      "relativeTime": 591,
+      "temperature": 199.9,
+      "heat": 11,
+      "ror": 10.57
+    },
+    {
+      "id": "f8e1d39c-8d22-44df-a190-aebb014fd200",
+      "relativeTime": 592,
+      "temperature": 200.2,
+      "heat": 11,
+      "ror": 10.51
+    },
+    {
+      "id": "5789d4e4-090b-40f3-8411-5b20b525d1a5",
+      "relativeTime": 593,
+      "temperature": 200.2,
+      "heat": 11,
+      "ror": 10.45
+    },
+    {
+      "id": "8ad868cb-356a-42ed-aa36-db4fbcab23bc",
+      "relativeTime": 594,
+      "temperature": 200.2,
+      "heat": 11,
+      "ror": 10.49
+    },
+    {
+      "id": "ca7d22a2-ceed-4caf-93db-aa198088c440",
+      "relativeTime": 595,
+      "temperature": 200.4,
+      "heat": 11,
+      "ror": 10.47
+    },
+    {
+      "id": "282cb7e0-16fb-4cc6-81fa-1377af225cd3",
+      "relativeTime": 596,
+      "temperature": 200.4,
+      "heat": 11,
+      "ror": 10.36
+    },
+    {
+      "id": "3ab7ba97-13ef-4a25-9254-c47d6ccecd74",
+      "relativeTime": 597,
+      "temperature": 200.7,
+      "heat": 11,
+      "ror": 10.27
+    },
+    {
+      "id": "8b3e9374-7d4d-40ff-b66d-d45ea0cfe4b0",
+      "relativeTime": 598,
+      "temperature": 200.2,
+      "heat": 11,
+      "ror": 10.09
+    },
+    {
+      "id": "c8456c54-3956-43da-9afb-f5a1f2dd01c2",
+      "relativeTime": 599,
+      "temperature": 200.9,
+      "heat": 11,
+      "ror": 10
+    },
+    {
+      "id": "14c5c0e6-0d24-43c8-b367-211087de8a49",
+      "relativeTime": 600,
+      "temperature": 200.7,
+      "heat": 11,
+      "ror": 9.97
+    },
+    {
+      "id": "b8c31723-f8f7-4b75-98b2-cdd0e516b981",
+      "relativeTime": 601,
+      "temperature": 200.9,
+      "heat": 11,
+      "ror": 9.79
+    },
+    {
+      "id": "1adef178-14bc-47e3-ae6c-416ad397ccb4",
+      "relativeTime": 602,
+      "temperature": 201.4,
+      "heat": 11,
+      "ror": 9.77
+    },
+    {
+      "id": "7b69060e-66a7-45c8-9e96-7efa28e29be1",
+      "relativeTime": 603,
+      "temperature": 201.4,
+      "heat": 11,
+      "ror": 9.69
+    },
+    {
+      "id": "250efe5d-b99f-4047-b221-81267e33805c",
+      "relativeTime": 604,
+      "temperature": 201.4,
+      "heat": 11,
+      "ror": 9.58
+    },
+    {
+      "id": "2a6ffbf8-d788-420b-937c-d250aec624d6",
+      "relativeTime": 605,
+      "temperature": 201.9,
+      "heat": 11,
+      "ror": 9.48
+    },
+    {
+      "id": "cd918f89-5e52-4934-af1f-862b75dbad44",
+      "relativeTime": 606,
+      "temperature": 201.2,
+      "heat": 11,
+      "ror": 9.29
+    },
+    {
+      "id": "d2972187-5a8f-4b8a-b923-02195a09e6cd",
+      "relativeTime": 607,
+      "temperature": 201.7,
+      "heat": 11,
+      "ror": 9.16
+    },
+    {
+      "id": "ebb78be1-1644-4cdc-842b-234eba6c81b8",
+      "relativeTime": 608,
+      "temperature": 201.9,
+      "heat": 11,
+      "ror": 9.02
+    },
+    {
+      "id": "f7637404-fb99-4ca4-a2e1-f4b6e55b3c68",
+      "relativeTime": 609,
+      "temperature": 201.7,
+      "heat": 11,
+      "ror": 8.85
+    },
+    {
+      "id": "b932d944-afbf-47a0-99e9-843cdd874469",
+      "relativeTime": 610,
+      "temperature": 201.9,
+      "heat": 11,
+      "ror": 8.73
+    },
+    {
+      "id": "314371c1-8d69-4c26-91d7-168fb966a7aa",
+      "relativeTime": 611,
+      "temperature": 202.4,
+      "heat": 11,
+      "ror": 8.67
+    },
+    {
+      "id": "34024343-8083-47f0-ab91-566f7d4f6d4f",
+      "relativeTime": 612,
+      "temperature": 202.4,
+      "heat": 11,
+      "ror": 8.61
+    },
+    {
+      "id": "2eb648b1-54fe-4f69-b451-1a0fa1121c26",
+      "relativeTime": 613,
+      "temperature": 202.2,
+      "heat": 11,
+      "ror": 8.46
+    },
+    {
+      "id": "05df46a3-7190-43e9-8ae8-012f663f4501",
+      "relativeTime": 614,
+      "temperature": 202.4,
+      "heat": 11,
+      "ror": 8.45
+    },
+    {
+      "id": "6bc23c49-0832-4490-a8d3-490ccfa0c0ab",
+      "relativeTime": 615,
+      "temperature": 202.4,
+      "heat": 11,
+      "ror": 8.31
+    },
+    {
+      "id": "a3fac9c7-c450-4924-9647-0a6759c91045",
+      "relativeTime": 616,
+      "temperature": 202.7,
+      "heat": 11,
+      "ror": 8.27
+    },
+    {
+      "id": "eb1077df-be7a-4923-9bec-3f7c6d45d840",
+      "relativeTime": 617,
+      "temperature": 203.2,
+      "heat": 11,
+      "ror": 8.29
+    },
+    {
+      "id": "7896932d-72e4-4a53-b2ce-6dc895daf6b0",
+      "relativeTime": 618,
+      "temperature": 202.7,
+      "heat": 11,
+      "ror": 8.12
+    },
+    {
+      "id": "74d11bd3-beff-454b-b521-5b2ecae82b8e",
+      "relativeTime": 619,
+      "temperature": 202.7,
+      "heat": 11,
+      "ror": 7.96
+    },
+    {
+      "id": "0ccebe98-2e41-47b4-a24e-e09096404420",
+      "relativeTime": 620,
+      "temperature": 203.2,
+      "heat": 11,
+      "ror": 7.9
+    },
+    {
+      "id": "8ddb4dd8-526a-41f3-8a7f-d56e23c3c607",
+      "relativeTime": 621,
+      "temperature": 203.2,
+      "heat": 11,
+      "ror": 7.75
+    },
+    {
+      "id": "fe59dac2-dafd-49cf-9afe-4f8ae2545ea5",
+      "relativeTime": 622,
+      "temperature": 202.9,
+      "heat": 11,
+      "ror": 7.68
+    },
+    {
+      "id": "ff032578-2825-40bb-b76b-b364bb4b9ce5",
+      "relativeTime": 623,
+      "temperature": 203.7,
+      "heat": 11,
+      "ror": 7.67
+    },
+    {
+      "id": "8a5fb565-37b9-435e-8de9-c246babf55b5",
+      "relativeTime": 624,
+      "temperature": 203.7,
+      "heat": 11,
+      "ror": 7.62
+    },
+    {
+      "id": "5b05217c-65e3-4c4e-ba9e-45f871d4d0f1",
+      "relativeTime": 625,
+      "temperature": 203.4,
+      "heat": 11,
+      "ror": 7.56
+    },
+    {
+      "id": "6c8a0238-9edf-46db-bbff-0fd697c89b6a",
+      "relativeTime": 626,
+      "temperature": 203.7,
+      "heat": 11,
+      "ror": 7.52
+    },
+    {
+      "id": "d5d3b548-d9fc-446e-8128-5aea5d12eb38",
+      "relativeTime": 627,
+      "temperature": 203.7,
+      "heat": 11,
+      "ror": 7.39
+    },
+    {
+      "id": "85f63dec-eefe-4d02-adbc-d454e679ceda",
+      "relativeTime": 628,
+      "temperature": 203.7,
+      "heat": 11,
+      "ror": 7.26
+    },
+    {
+      "id": "f3b20e39-feb9-46ee-ad06-03d5c3893de3",
+      "relativeTime": 629,
+      "temperature": 203.9,
+      "heat": 11,
+      "ror": 7.22
+    },
+    {
+      "id": "c5f8c81a-d316-424a-a4c4-ac7a8f78959a",
+      "relativeTime": 630,
+      "temperature": 204.2,
+      "heat": 11,
+      "ror": 7.2
+    },
+    {
+      "id": "dbc96be3-b4a1-47d2-82fd-b5b08c240dc5",
+      "relativeTime": 631,
+      "temperature": 203.9,
+      "heat": 11,
+      "ror": 7.12
+    },
+    {
+      "id": "6629f7de-ce6e-4de0-9338-beb95a4d78a3",
+      "relativeTime": 632,
+      "temperature": 204.2,
+      "heat": 11,
+      "ror": 7.05
+    },
+    {
+      "id": "a48e5103-90c2-4c7a-82f8-ad7e3bdc5e94",
+      "relativeTime": 633,
+      "temperature": 204.4,
+      "heat": 11,
+      "ror": 6.92
+    },
+    {
+      "id": "c14280f7-c215-4eae-ad95-4fecb9b92d55",
+      "relativeTime": 634,
+      "temperature": 204.4,
+      "heat": 11,
+      "ror": 6.89
+    },
+    {
+      "id": "76ab0111-f6d0-4167-a741-feeb25b2542b",
+      "relativeTime": 635,
+      "temperature": 204.7,
+      "heat": 11,
+      "ror": 6.92
+    },
+    {
+      "id": "c06050d7-d3ba-403d-b797-59ea5ab579f9",
+      "relativeTime": 636,
+      "temperature": 204.4,
+      "heat": 11,
+      "ror": 6.8
+    },
+    {
+      "id": "c781aa35-5f71-4f1f-9fcb-8849f39ab790",
+      "relativeTime": 637,
+      "temperature": 204.7,
+      "heat": 11,
+      "ror": 6.74
+    },
+    {
+      "id": "094966a3-7844-45d8-8a32-46cb453c051c",
+      "relativeTime": 638,
+      "temperature": 204.7,
+      "heat": 11,
+      "ror": 6.74
+    },
+    {
+      "id": "fd8efb68-061b-4d36-9fc2-da71ca49e6f1",
+      "relativeTime": 639,
+      "temperature": 204.4,
+      "heat": 11,
+      "ror": 6.53
+    },
+    {
+      "id": "8e4206c6-112c-4a81-9164-6875bdd9b726",
+      "relativeTime": 640,
+      "temperature": 204.9,
+      "heat": 11,
+      "ror": 6.43
+    },
+    {
+      "id": "75aafcc3-d3d2-4018-b4b8-7f7e08a84e11",
+      "relativeTime": 641,
+      "temperature": 205.2,
+      "heat": 11,
+      "ror": 6.45
+    },
+    {
+      "id": "2aa3a9cb-45f7-4b1a-a955-0caf4245edfe",
+      "relativeTime": 642,
+      "temperature": 204.7,
+      "heat": 11,
+      "ror": 6.32
+    },
+    {
+      "id": "7762f925-0256-415a-8a12-31eff35a0196",
+      "relativeTime": 643,
+      "temperature": 205.2,
+      "heat": 11,
+      "ror": 6.29
+    },
+    {
+      "id": "b7352ba9-8eee-46a9-b405-fd317d6b45f7",
+      "relativeTime": 644,
+      "temperature": 205.2,
+      "heat": 11,
+      "ror": 6.26
+    },
+    {
+      "id": "7df7bca5-46f7-4486-b812-fdcb26d1cf03",
+      "relativeTime": 645,
+      "temperature": 205.4,
+      "heat": 11,
+      "ror": 6.23
+    },
+    {
+      "id": "5c2820bf-aa27-4bc1-a35e-6de96c1e839e",
+      "relativeTime": 646,
+      "temperature": 205.4,
+      "heat": 11,
+      "ror": 6.14
+    },
+    {
+      "id": "6179cc3c-496d-492c-8af5-5abae6a6e1a9",
+      "relativeTime": 647,
+      "temperature": 205.9,
+      "heat": 11,
+      "ror": 6.21
+    },
+    {
+      "id": "9b4501f8-60d3-42ad-96f6-e3afc84ec1fe",
+      "relativeTime": 648,
+      "temperature": 205.7,
+      "heat": 11,
+      "ror": 6.18
+    },
+    {
+      "id": "214dc929-0ae3-4e00-a1b4-6b3ffd943c46",
+      "relativeTime": 649,
+      "temperature": 205.9,
+      "heat": 11,
+      "ror": 6.15
+    },
+    {
+      "id": "2b25b30b-db33-4a0f-be42-93c6b854c1d7",
+      "relativeTime": 650,
+      "temperature": 205.9,
+      "heat": 11,
+      "ror": 6.12
+    },
+    {
+      "id": "5084e6c1-dba5-4b37-9c87-bd2ab46a7b1d",
+      "relativeTime": 651,
+      "temperature": 205.7,
+      "heat": 11,
+      "ror": 6
+    },
+    {
+      "id": "c3af34b7-2999-4625-a50e-966e5435e71e",
+      "relativeTime": 652,
+      "temperature": 206.2,
+      "heat": 11,
+      "ror": 6.04
+    },
+    {
+      "id": "6b1416a5-0060-40e5-9266-bd01457f1356",
+      "relativeTime": 653,
+      "temperature": 205.7,
+      "heat": 11,
+      "ror": 5.93
+    },
+    {
+      "id": "9f156a3e-c72c-4288-8eed-63a6ebf59aea",
+      "relativeTime": 654,
+      "temperature": 205.9,
+      "heat": 11,
+      "ror": 5.86
+    },
+    {
+      "id": "17403a58-9329-4465-9e87-d12a10502907",
+      "relativeTime": 655,
+      "temperature": 206.2,
+      "heat": 11,
+      "ror": 5.9
+    },
+    {
+      "id": "f9c184f3-a74e-45f5-b706-b3a567602d00",
+      "relativeTime": 656,
+      "temperature": 206.2,
+      "heat": 11,
+      "ror": 5.85
+    },
+    {
+      "id": "a065b7fd-7b13-468b-a7f3-abcb053d741f",
+      "relativeTime": 657,
+      "temperature": 206.4,
+      "heat": 11,
+      "ror": 5.78
+    },
+    {
+      "id": "a80796e5-8ad8-4779-8914-ac8639b844f1",
+      "relativeTime": 658,
+      "temperature": 206.4,
+      "heat": 11,
+      "ror": 5.81
+    },
+    {
+      "id": "55148694-d272-48f1-8051-37c7362ee17f",
+      "relativeTime": 659,
+      "temperature": 206.7,
+      "heat": 11,
+      "ror": 5.8
+    },
+    {
+      "id": "477dee39-1bf0-45b9-939f-d3af61f6dc2a",
+      "relativeTime": 660,
+      "temperature": 206.9,
+      "heat": 11,
+      "ror": 5.83
+    },
+    {
+      "id": "f1ab1991-4a36-45c9-a262-14cfc5e20c33",
+      "relativeTime": 661,
+      "temperature": 206.4,
+      "heat": 11,
+      "ror": 5.73
+    },
+    {
+      "id": "7dad254f-f44d-4667-ab9e-97884e049ec9",
+      "relativeTime": 662,
+      "temperature": 206.9,
+      "heat": 11,
+      "ror": 5.72
+    },
+    {
+      "id": "2017bc6d-5738-4728-9371-bb5e061200c1",
+      "relativeTime": 663,
+      "temperature": 206.9,
+      "heat": 11,
+      "ror": 5.62
+    },
+    {
+      "id": "08f5710f-0362-469c-88e1-35a8da21bf52",
+      "relativeTime": 664,
+      "temperature": 207.2,
+      "heat": 11,
+      "ror": 5.62
+    },
+    {
+      "id": "bb9ff34d-a577-4e4b-a52f-29abd3c220f3",
+      "relativeTime": 665,
+      "temperature": 207.2,
+      "heat": 11,
+      "ror": 5.58
+    },
+    {
+      "id": "4c7ac72a-ee18-46ce-b970-9c96198475fb",
+      "relativeTime": 666,
+      "temperature": 206.9,
+      "heat": 11,
+      "ror": 5.49
+    },
+    {
+      "id": "37a322ec-2120-4a16-9e01-58d651ed0012",
+      "relativeTime": 667,
+      "temperature": 207.4,
+      "heat": 11,
+      "ror": 5.53
+    },
+    {
+      "id": "23a72343-d5f9-4fc7-8c1f-081c6f43d331",
+      "relativeTime": 668,
+      "temperature": 207.2,
+      "heat": 11,
+      "ror": 5.44
+    },
+    {
+      "id": "73904409-45e3-4e84-a5f8-32c7f8b5916b",
+      "relativeTime": 669,
+      "temperature": 207.7,
+      "heat": 11,
+      "ror": 5.54
+    },
+    {
+      "id": "f5e6ab22-5e98-4671-9728-c228fc9da007",
+      "relativeTime": 670,
+      "temperature": 207.2,
+      "heat": 11,
+      "ror": 5.51
+    },
+    {
+      "id": "ffe89c75-2607-43b6-b058-d7266913ed90",
+      "relativeTime": 671,
+      "temperature": 207.9,
+      "heat": 11,
+      "ror": 5.55
+    },
+    {
+      "id": "d854b7af-b2d3-4e72-9080-8abc2ec90d38",
+      "relativeTime": 672,
+      "temperature": 207.9,
+      "heat": 11,
+      "ror": 5.59
+    },
+    {
+      "id": "ea287617-b07c-4487-a889-6b91750518e0",
+      "relativeTime": 673,
+      "temperature": 208.4,
+      "heat": 11,
+      "ror": 5.69
+    },
+    {
+      "id": "820b7c64-c60d-4bc9-a7be-69bf8d28162f",
+      "relativeTime": 674,
+      "temperature": 208.2,
+      "heat": 11,
+      "ror": 5.74
+    },
+    {
+      "id": "aeb37f29-7b44-49d3-b1c3-2b4f852637c6",
+      "relativeTime": 675,
+      "temperature": 208.2,
+      "heat": 11,
+      "ror": 5.73
+    },
+    {
+      "id": "1c3b89f5-c2cd-41b4-ad21-03a08c4e81ec",
+      "relativeTime": 676,
+      "temperature": 208.4,
+      "heat": 11,
+      "ror": 5.72
+    },
+    {
+      "id": "45cef36d-db45-44a0-b750-7d2815dfab3b",
+      "relativeTime": 677,
+      "temperature": 208.7,
+      "heat": 11,
+      "ror": 5.87
+    },
+    {
+      "id": "af6b3ed8-107c-4800-9bec-a0226b94f92f",
+      "relativeTime": 678,
+      "temperature": 208.2,
+      "heat": 11,
+      "ror": 5.82
+    }
+  ],
+  "memo": "",
+  "processing": "washed",
+  "purpose": "hand-drip",
+  "chargeTemp": 205.7,
+  "firstPopTemp": 196.7,
+  "finishTemp": 208.2,
+  "totalRoastSeconds": 678,
+  "devTimeSeconds": 105,
+  "finalDTR": 15.486725663716813,
+  "filename": "202607080704_콜롬비아_수프리모.json"
+}
