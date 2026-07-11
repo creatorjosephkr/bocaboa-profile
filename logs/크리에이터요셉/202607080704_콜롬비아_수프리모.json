@@ -7168,7 +7168,7 @@
       "ror": 5.82
     }
   ],
-  "memo": "",
+  "memo": "메모 시험\n",
   "processing": "washed",
   "purpose": "hand-drip",
   "chargeTemp": 205.7,
@@ -7177,5 +7177,7 @@
   "totalRoastSeconds": 678,
   "devTimeSeconds": 105,
   "finalDTR": 15.486725663716813,
-  "filename": "202607080704_콜롬비아_수프리모.json"
+  "filename": "202607080704_콜롬비아_수프리모.json",
+  "roastedWeight": 133,
+  "lossRate": 16.9
 }
