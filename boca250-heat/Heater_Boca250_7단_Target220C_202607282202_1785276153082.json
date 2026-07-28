@@ -1,0 +1,21 @@
+{
+  "title": "보카보아 히터 단계별 승온 및 목표 도달 시간 측정 결과",
+  "date": "2026. 7. 29. 오전 7:02:33",
+  "heaterDevice": "보카보카 250",
+  "heaterStep": "7단",
+  "targetTemp": 220,
+  "startTemp": 0,
+  "finalTemp": 0,
+  "powerConsumption": 0,
+  "ambientTemp": 0,
+  "humidity": 0,
+  "targetReached": false,
+  "targetReachTimeSec": null,
+  "targetReachTimeFormatted": "미도달",
+  "totalElapsedSec": 0,
+  "totalElapsedTimeFormatted": "00:00",
+  "avgRoR": 0,
+  "maxRoR": 0,
+  "interval30sData": [],
+  "heaterTestLogs": []
+}
