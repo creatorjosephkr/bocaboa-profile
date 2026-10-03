@@ -1,0 +1,436 @@
+{
+  "beanInfo": {
+    "name": "브라질 NY2 FC 17/18 모지아나",
+    "variety": "Mundo Novo, Catuai",
+    "weight": "200",
+    "processing": "Natural (내추럴)",
+    "purpose": "hand-drip",
+    "preheatTemp": "205",
+    "targetDTR": "12",
+    "ambientTemp": 25.8,
+    "ambientHumidity": 42,
+    "date": "2026-10-03T03:01:30.996Z"
+  },
+  "logs": [
+    {
+      "time": "00:00",
+      "seconds": 0,
+      "temperature": 184.9,
+      "ror": null,
+      "heat": 11,
+      "powerW": 458.6,
+      "voltageV": 217.2,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "00:30",
+      "seconds": 30,
+      "temperature": 139.4,
+      "ror": null,
+      "heat": 11,
+      "powerW": 458.7,
+      "voltageV": 217.2,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "01:00",
+      "seconds": 60,
+      "temperature": 118.9,
+      "ror": -2.05,
+      "heat": 11,
+      "powerW": 459.5,
+      "voltageV": 217.5,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "01:30",
+      "seconds": 90,
+      "temperature": 111.9,
+      "ror": -18.24,
+      "heat": 11,
+      "powerW": 452.5,
+      "voltageV": 215.4,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "02:00",
+      "seconds": 120,
+      "temperature": 110.7,
+      "ror": -8.49,
+      "heat": 11,
+      "powerW": 461.2,
+      "voltageV": 217.9,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "02:30",
+      "seconds": 150,
+      "temperature": 113.4,
+      "ror": 0.76,
+      "heat": 11,
+      "powerW": 464,
+      "voltageV": 218.5,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "03:00",
+      "seconds": 180,
+      "temperature": 117.4,
+      "ror": 5.75,
+      "heat": 11,
+      "powerW": 460.1,
+      "voltageV": 217.5,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "03:30",
+      "seconds": 210,
+      "temperature": 121.9,
+      "ror": 8.46,
+      "heat": 11,
+      "powerW": 462.9,
+      "voltageV": 218.3,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "04:00",
+      "seconds": 240,
+      "temperature": 126.7,
+      "ror": 9.49,
+      "heat": 10.5,
+      "powerW": 429,
+      "voltageV": 217.1,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "04:30",
+      "seconds": 270,
+      "temperature": 131.9,
+      "ror": 9.25,
+      "heat": 10.5,
+      "powerW": 434.6,
+      "voltageV": 218.6,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "05:00",
+      "seconds": 300,
+      "temperature": 136.2,
+      "ror": 9.24,
+      "heat": 10,
+      "powerW": 392.3,
+      "voltageV": 217.6,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "05:30",
+      "seconds": 330,
+      "temperature": 139.7,
+      "ror": 8.31,
+      "heat": 10,
+      "powerW": 395.5,
+      "voltageV": 218.5,
+      "ambientTemp": 27.2,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "06:00",
+      "seconds": 360,
+      "temperature": 144.2,
+      "ror": 8.17,
+      "heat": 10,
+      "powerW": 394,
+      "voltageV": 218,
+      "ambientTemp": 27.1,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "06:30",
+      "seconds": 390,
+      "temperature": 147.9,
+      "ror": 8.05,
+      "heat": 10,
+      "powerW": 394,
+      "voltageV": 218,
+      "ambientTemp": 27.1,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "07:00",
+      "seconds": 420,
+      "temperature": 152.2,
+      "ror": 7.91,
+      "heat": 10,
+      "powerW": 385.7,
+      "voltageV": 215.7,
+      "ambientTemp": 27.1,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "07:30",
+      "seconds": 450,
+      "temperature": 155.9,
+      "ror": 7.75,
+      "heat": 10,
+      "powerW": 400.5,
+      "voltageV": 219.7,
+      "ambientTemp": 27,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "08:00",
+      "seconds": 480,
+      "temperature": 159.7,
+      "ror": 7.69,
+      "heat": 10,
+      "powerW": 386.7,
+      "voltageV": 215.9,
+      "ambientTemp": 26.9,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "08:30",
+      "seconds": 510,
+      "temperature": 162.9,
+      "ror": 7.58,
+      "heat": 10,
+      "powerW": 385.9,
+      "voltageV": 215.7,
+      "ambientTemp": 26.9,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "09:00",
+      "seconds": 540,
+      "temperature": 166.4,
+      "ror": 6.43,
+      "heat": 10,
+      "powerW": 385.9,
+      "voltageV": 215.6,
+      "ambientTemp": 26.8,
+      "ambientHumidity": 43
+    },
+    {
+      "time": "09:30",
+      "seconds": 570,
+      "temperature": 170.4,
+      "ror": 7.05,
+      "heat": 10,
+      "powerW": 384.5,
+      "voltageV": 215.3,
+      "ambientTemp": 26.7,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "10:00",
+      "seconds": 600,
+      "temperature": 173.7,
+      "ror": 7.44,
+      "heat": 10,
+      "powerW": 387.2,
+      "voltageV": 216,
+      "ambientTemp": 26.6,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "10:30",
+      "seconds": 630,
+      "temperature": 177.2,
+      "ror": 7.28,
+      "heat": 10,
+      "powerW": 388.2,
+      "voltageV": 216.3,
+      "ambientTemp": 26.6,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "11:00",
+      "seconds": 660,
+      "temperature": 180.9,
+      "ror": 6.92,
+      "heat": 10,
+      "powerW": 387.5,
+      "voltageV": 216.1,
+      "ambientTemp": 26.5,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "11:30",
+      "seconds": 690,
+      "temperature": 184.4,
+      "ror": 7.32,
+      "heat": 10,
+      "powerW": 387.9,
+      "voltageV": 216.2,
+      "ambientTemp": 26.5,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "12:00",
+      "seconds": 720,
+      "temperature": 187.9,
+      "ror": 7.06,
+      "heat": 10,
+      "powerW": 385.8,
+      "voltageV": 215.6,
+      "ambientTemp": 26.4,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "12:30",
+      "seconds": 750,
+      "temperature": 192.4,
+      "ror": 7.74,
+      "heat": 10,
+      "powerW": 374.6,
+      "voltageV": 212.4,
+      "ambientTemp": 26.3,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "13:00",
+      "seconds": 780,
+      "temperature": 195.9,
+      "ror": 8.04,
+      "heat": 9.5,
+      "powerW": 360.9,
+      "voltageV": 216.9,
+      "ambientTemp": 26.3,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "13:30",
+      "seconds": 810,
+      "temperature": 199.7,
+      "ror": 7.31,
+      "heat": 9.5,
+      "powerW": 362,
+      "voltageV": 217.1,
+      "ambientTemp": 26.2,
+      "ambientHumidity": 42
+    },
+    {
+      "time": "14:00",
+      "seconds": 840,
+      "temperature": 203.2,
+      "ror": 6.99,
+      "heat": 9.5,
+      "powerW": 350.2,
+      "voltageV": 214.2,
+      "ambientTemp": 26.2,
+      "ambientHumidity": 43
+    }
+  ],
+  "events": [
+    {
+      "time": "PREHEAT",
+      "seconds": null,
+      "type": "예열 시작",
+      "temperature": 27.2,
+      "heat": 11,
+      "powerW": 463.8,
+      "voltageV": 218.1,
+      "description": "예열 시작 관련 내용 기록"
+    },
+    {
+      "time": "00:00",
+      "seconds": 0,
+      "type": "투입",
+      "temperature": 184.9,
+      "heat": 11,
+      "powerW": 458.6,
+      "voltageV": 217.2,
+      "description": "생두 투입 완료"
+    },
+    {
+      "time": "01:44",
+      "seconds": 104,
+      "type": "TP",
+      "temperature": 109.9,
+      "heat": 11,
+      "powerW": 460,
+      "voltageV": 217.6,
+      "description": "보정 터닝 포인트: 109.9°C"
+    },
+    {
+      "time": "03:45",
+      "seconds": 225,
+      "type": "화력 조절",
+      "temperature": 124.7,
+      "heat": 10.5,
+      "powerW": 428.6,
+      "voltageV": 217.1,
+      "description": "화력 변경: 11 → 10.5"
+    },
+    {
+      "time": "04:46",
+      "seconds": 286,
+      "type": "화력 조절",
+      "temperature": 134.2,
+      "heat": 10,
+      "powerW": 391.6,
+      "voltageV": 217.5,
+      "description": "화력 변경: 10.5 → 10"
+    },
+    {
+      "time": "12:27",
+      "seconds": 747,
+      "type": "1차 팝",
+      "temperature": 191.7,
+      "heat": 10,
+      "powerW": 374.2,
+      "voltageV": 212.3,
+      "description": "1차 크랙 진행 감지"
+    },
+    {
+      "time": "12:54",
+      "seconds": 774,
+      "type": "화력 조절",
+      "temperature": 195.4,
+      "heat": 9.5,
+      "powerW": 358,
+      "voltageV": 216,
+      "description": "화력 변경: 10 → 9.5"
+    },
+    {
+      "time": "14:09",
+      "seconds": 849,
+      "type": "목표 DTR",
+      "temperature": 203.4,
+      "heat": 9.5,
+      "powerW": 362.1,
+      "voltageV": 217,
+      "description": "목표 DTR 12.0% 도달"
+    },
+    {
+      "time": "14:09",
+      "seconds": 849,
+      "type": "배출",
+      "temperature": 203.4,
+      "heat": 9.5,
+      "powerW": 362.1,
+      "voltageV": 217,
+      "description": "원두 배출 완료"
+    }
+  ],
+  "roastResult": {
+    "dropTemp": 203.4,
+    "dropTime": 849,
+    "firstCrackTime": 747,
+    "firstCrackTemp": 191.7,
+    "developmentTime": 102,
+    "developmentRatio": "12.0",
+    "weightLoss": "13.3"
+  }
+}
