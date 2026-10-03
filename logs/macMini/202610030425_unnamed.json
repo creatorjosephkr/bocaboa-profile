@@ -1,0 +1,16 @@
+{
+  "id": null,
+  "date": null,
+  "beanName": "",
+  "beanWeight": "",
+  "preheatTemp": "",
+  "targetDTR": "",
+  "events": [],
+  "graphPoints": [],
+  "memo": "",
+  "processing": "washed",
+  "purpose": "hand-drip",
+  "roastedWeight": 173.5,
+  "lossRate": null,
+  "githubOwner": "macMini"
+}
